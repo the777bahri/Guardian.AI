@@ -175,8 +175,3 @@ This project was developed by a team of dedicated students from the University o
 We appreciate the collaborative effort and dedication each team member brought to making GuardianAI a reality.
 
 ---
-
-## 📢 Support
-
-// ... existing code ...
----
