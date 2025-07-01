@@ -155,3 +155,30 @@ GuardianAI/
 For issues, please open an issue on GitHub or contact the development team.
 
 ---
+
+## 👥 Contributors
+
+This project was developed by a team of dedicated students from the University of Technology Sydney (UTS):
+
+### Team Members
+
+- **Abdullah Ibrahim Bahri** ([@the777bahri](https://github.com/the777bahri))
+  - Student ID: 13384589
+  - Email: Abdullah.i.bahri@student.uts.edu.au
+
+- **Hayrambh Monga** ([@Hayrambh](https://github.com/orgs/FVLegion/people/Hayrambh))
+  - Student ID: 25176811
+  - Email: hayrambhrajesh.monga@student.uts.edu.au
+
+- **Shudarshan Singh Kongkham** ([@ShudarshanKongkham](https://github.com/orgs/FVLegion/people/ShudarshanKongkham))
+  - Student ID: 25024199
+  - Email: shudarshan.s.kongkham@student.uts.edu.au
+
+We appreciate the collaborative effort and dedication each team member brought to making GuardianAI a reality.
+
+---
+
+## 📢 Support
+
+// ... existing code ...
+---
