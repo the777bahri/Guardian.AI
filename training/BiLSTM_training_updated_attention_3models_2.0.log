@@ -1,0 +1,631 @@
+2025-04-04 23:03:10 - INFO - Logging initialized successfully.
+2025-04-04 23:03:19 - INFO - Training model: BiLSTMWithAttention
+2025-04-04 23:03:20 - INFO - Epoch [1/100] - BiLSTMWithAttention, Training Loss: 1.0350, Learning Rate: 0.001000
+2025-04-04 23:03:20 - INFO - Epoch [1/100] - BiLSTMWithAttention, Test Loss: 0.8879, Accuracy: 57.63%
+2025-04-04 23:03:20 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 57.63%
+2025-04-04 23:03:20 - INFO - Epoch [2/100] - BiLSTMWithAttention, Training Loss: 0.8155, Learning Rate: 0.001000
+2025-04-04 23:03:20 - INFO - Epoch [2/100] - BiLSTMWithAttention, Test Loss: 0.7095, Accuracy: 71.19%
+2025-04-04 23:03:20 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 71.19%
+2025-04-04 23:03:20 - INFO - Epoch [3/100] - BiLSTMWithAttention, Training Loss: 0.6253, Learning Rate: 0.001000
+2025-04-04 23:03:20 - INFO - Epoch [3/100] - BiLSTMWithAttention, Test Loss: 0.7747, Accuracy: 69.49%
+2025-04-04 23:03:20 - INFO - Epoch [4/100] - BiLSTMWithAttention, Training Loss: 0.5373, Learning Rate: 0.001000
+2025-04-04 23:03:20 - INFO - Epoch [4/100] - BiLSTMWithAttention, Test Loss: 0.5113, Accuracy: 76.27%
+2025-04-04 23:03:20 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 76.27%
+2025-04-04 23:03:20 - INFO - Epoch [5/100] - BiLSTMWithAttention, Training Loss: 0.3564, Learning Rate: 0.001000
+2025-04-04 23:03:20 - INFO - Epoch [5/100] - BiLSTMWithAttention, Test Loss: 0.6461, Accuracy: 77.97%
+2025-04-04 23:03:20 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 77.97%
+2025-04-04 23:03:21 - INFO - Epoch [6/100] - BiLSTMWithAttention, Training Loss: 0.4522, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [6/100] - BiLSTMWithAttention, Test Loss: 0.6702, Accuracy: 76.27%
+2025-04-04 23:03:21 - INFO - Epoch [7/100] - BiLSTMWithAttention, Training Loss: 0.4486, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [7/100] - BiLSTMWithAttention, Test Loss: 0.5404, Accuracy: 77.97%
+2025-04-04 23:03:21 - INFO - Epoch [8/100] - BiLSTMWithAttention, Training Loss: 0.3428, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [8/100] - BiLSTMWithAttention, Test Loss: 0.3502, Accuracy: 89.83%
+2025-04-04 23:03:21 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 89.83%
+2025-04-04 23:03:21 - INFO - Epoch [9/100] - BiLSTMWithAttention, Training Loss: 0.2667, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [9/100] - BiLSTMWithAttention, Test Loss: 0.3629, Accuracy: 86.44%
+2025-04-04 23:03:21 - INFO - Epoch [10/100] - BiLSTMWithAttention, Training Loss: 0.2675, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [10/100] - BiLSTMWithAttention, Test Loss: 0.3361, Accuracy: 86.44%
+2025-04-04 23:03:21 - INFO - Epoch [11/100] - BiLSTMWithAttention, Training Loss: 0.2154, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [11/100] - BiLSTMWithAttention, Test Loss: 0.3096, Accuracy: 88.14%
+2025-04-04 23:03:21 - INFO - Epoch [12/100] - BiLSTMWithAttention, Training Loss: 0.1948, Learning Rate: 0.001000
+2025-04-04 23:03:21 - INFO - Epoch [12/100] - BiLSTMWithAttention, Test Loss: 0.4797, Accuracy: 89.83%
+2025-04-04 23:03:22 - INFO - Epoch [13/100] - BiLSTMWithAttention, Training Loss: 0.2168, Learning Rate: 0.001000
+2025-04-04 23:03:22 - INFO - Epoch [13/100] - BiLSTMWithAttention, Test Loss: 0.2455, Accuracy: 91.53%
+2025-04-04 23:03:22 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 91.53%
+2025-04-04 23:03:22 - INFO - Epoch [14/100] - BiLSTMWithAttention, Training Loss: 0.1669, Learning Rate: 0.001000
+2025-04-04 23:03:22 - INFO - Epoch [14/100] - BiLSTMWithAttention, Test Loss: 0.2446, Accuracy: 91.53%
+2025-04-04 23:03:22 - INFO - Epoch [15/100] - BiLSTMWithAttention, Training Loss: 0.1572, Learning Rate: 0.001000
+2025-04-04 23:03:22 - INFO - Epoch [15/100] - BiLSTMWithAttention, Test Loss: 0.2169, Accuracy: 94.92%
+2025-04-04 23:03:22 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 94.92%
+2025-04-04 23:03:22 - INFO - Epoch [16/100] - BiLSTMWithAttention, Training Loss: 0.0992, Learning Rate: 0.001000
+2025-04-04 23:03:22 - INFO - Epoch [16/100] - BiLSTMWithAttention, Test Loss: 0.2657, Accuracy: 91.53%
+2025-04-04 23:03:22 - INFO - Epoch [17/100] - BiLSTMWithAttention, Training Loss: 0.1161, Learning Rate: 0.001000
+2025-04-04 23:03:22 - INFO - Epoch [17/100] - BiLSTMWithAttention, Test Loss: 0.2725, Accuracy: 93.22%
+2025-04-04 23:03:22 - INFO - Epoch [18/100] - BiLSTMWithAttention, Training Loss: 0.1154, Learning Rate: 0.001000
+2025-04-04 23:03:22 - INFO - Epoch [18/100] - BiLSTMWithAttention, Test Loss: 0.1965, Accuracy: 93.22%
+2025-04-04 23:03:22 - INFO - Epoch [19/100] - BiLSTMWithAttention, Training Loss: 0.0715, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [19/100] - BiLSTMWithAttention, Test Loss: 0.1485, Accuracy: 94.92%
+2025-04-04 23:03:23 - INFO - Epoch [20/100] - BiLSTMWithAttention, Training Loss: 0.0779, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [20/100] - BiLSTMWithAttention, Test Loss: 0.2059, Accuracy: 94.92%
+2025-04-04 23:03:23 - INFO - Epoch [21/100] - BiLSTMWithAttention, Training Loss: 0.0634, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [21/100] - BiLSTMWithAttention, Test Loss: 0.1959, Accuracy: 96.61%
+2025-04-04 23:03:23 - INFO - Best model saved to BiLSTMWithAttention_best_model_2.0.pth with accuracy: 96.61%
+2025-04-04 23:03:23 - INFO - Epoch [22/100] - BiLSTMWithAttention, Training Loss: 0.0458, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [22/100] - BiLSTMWithAttention, Test Loss: 0.1731, Accuracy: 94.92%
+2025-04-04 23:03:23 - INFO - Epoch [23/100] - BiLSTMWithAttention, Training Loss: 0.1308, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [23/100] - BiLSTMWithAttention, Test Loss: 0.4591, Accuracy: 93.22%
+2025-04-04 23:03:23 - INFO - Epoch [24/100] - BiLSTMWithAttention, Training Loss: 0.0924, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [24/100] - BiLSTMWithAttention, Test Loss: 0.5169, Accuracy: 89.83%
+2025-04-04 23:03:23 - INFO - Epoch [25/100] - BiLSTMWithAttention, Training Loss: 0.0908, Learning Rate: 0.001000
+2025-04-04 23:03:23 - INFO - Epoch [25/100] - BiLSTMWithAttention, Test Loss: 0.5563, Accuracy: 89.83%
+2025-04-04 23:03:24 - INFO - Epoch [26/100] - BiLSTMWithAttention, Training Loss: 0.0762, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [26/100] - BiLSTMWithAttention, Test Loss: 0.3659, Accuracy: 93.22%
+2025-04-04 23:03:24 - INFO - Epoch [27/100] - BiLSTMWithAttention, Training Loss: 0.0353, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [27/100] - BiLSTMWithAttention, Test Loss: 0.2456, Accuracy: 94.92%
+2025-04-04 23:03:24 - INFO - Epoch [28/100] - BiLSTMWithAttention, Training Loss: 0.0282, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [28/100] - BiLSTMWithAttention, Test Loss: 0.3158, Accuracy: 93.22%
+2025-04-04 23:03:24 - INFO - Epoch [29/100] - BiLSTMWithAttention, Training Loss: 0.1492, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [29/100] - BiLSTMWithAttention, Test Loss: 0.3135, Accuracy: 94.92%
+2025-04-04 23:03:24 - INFO - Epoch [30/100] - BiLSTMWithAttention, Training Loss: 0.0896, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [30/100] - BiLSTMWithAttention, Test Loss: 0.3608, Accuracy: 91.53%
+2025-04-04 23:03:24 - INFO - Epoch [31/100] - BiLSTMWithAttention, Training Loss: 0.0711, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [31/100] - BiLSTMWithAttention, Test Loss: 0.4677, Accuracy: 93.22%
+2025-04-04 23:03:24 - INFO - Epoch [32/100] - BiLSTMWithAttention, Training Loss: 0.0895, Learning Rate: 0.001000
+2025-04-04 23:03:24 - INFO - Epoch [32/100] - BiLSTMWithAttention, Test Loss: 0.2046, Accuracy: 91.53%
+2025-04-04 23:03:25 - INFO - Epoch [33/100] - BiLSTMWithAttention, Training Loss: 0.1003, Learning Rate: 0.001000
+2025-04-04 23:03:25 - INFO - Epoch [33/100] - BiLSTMWithAttention, Test Loss: 0.3822, Accuracy: 86.44%
+2025-04-04 23:03:25 - INFO - Epoch [34/100] - BiLSTMWithAttention, Training Loss: 0.0333, Learning Rate: 0.001000
+2025-04-04 23:03:25 - INFO - Epoch [34/100] - BiLSTMWithAttention, Test Loss: 0.1925, Accuracy: 93.22%
+2025-04-04 23:03:25 - INFO - Epoch [35/100] - BiLSTMWithAttention, Training Loss: 0.0194, Learning Rate: 0.000500
+2025-04-04 23:03:25 - INFO - Epoch [35/100] - BiLSTMWithAttention, Test Loss: 0.1737, Accuracy: 94.92%
+2025-04-04 23:03:25 - INFO - Epoch [36/100] - BiLSTMWithAttention, Training Loss: 0.0590, Learning Rate: 0.000500
+2025-04-04 23:03:25 - INFO - Epoch [36/100] - BiLSTMWithAttention, Test Loss: 0.2248, Accuracy: 93.22%
+2025-04-04 23:03:25 - INFO - Epoch [37/100] - BiLSTMWithAttention, Training Loss: 0.0066, Learning Rate: 0.000500
+2025-04-04 23:03:25 - INFO - Epoch [37/100] - BiLSTMWithAttention, Test Loss: 0.1649, Accuracy: 94.92%
+2025-04-04 23:03:25 - INFO - Epoch [38/100] - BiLSTMWithAttention, Training Loss: 0.0279, Learning Rate: 0.000500
+2025-04-04 23:03:25 - INFO - Epoch [38/100] - BiLSTMWithAttention, Test Loss: 0.1764, Accuracy: 94.92%
+2025-04-04 23:03:25 - INFO - Epoch [39/100] - BiLSTMWithAttention, Training Loss: 0.0264, Learning Rate: 0.000500
+2025-04-04 23:03:25 - INFO - Epoch [39/100] - BiLSTMWithAttention, Test Loss: 0.1867, Accuracy: 94.92%
+2025-04-04 23:03:26 - INFO - Epoch [40/100] - BiLSTMWithAttention, Training Loss: 0.0250, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [40/100] - BiLSTMWithAttention, Test Loss: 0.1985, Accuracy: 94.92%
+2025-04-04 23:03:26 - INFO - Epoch [41/100] - BiLSTMWithAttention, Training Loss: 0.0333, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [41/100] - BiLSTMWithAttention, Test Loss: 0.2005, Accuracy: 94.92%
+2025-04-04 23:03:26 - INFO - Epoch [42/100] - BiLSTMWithAttention, Training Loss: 0.0042, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [42/100] - BiLSTMWithAttention, Test Loss: 0.2136, Accuracy: 94.92%
+2025-04-04 23:03:26 - INFO - Epoch [43/100] - BiLSTMWithAttention, Training Loss: 0.0031, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [43/100] - BiLSTMWithAttention, Test Loss: 0.1902, Accuracy: 96.61%
+2025-04-04 23:03:26 - INFO - Epoch [44/100] - BiLSTMWithAttention, Training Loss: 0.0017, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [44/100] - BiLSTMWithAttention, Test Loss: 0.1920, Accuracy: 96.61%
+2025-04-04 23:03:26 - INFO - Epoch [45/100] - BiLSTMWithAttention, Training Loss: 0.0010, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [45/100] - BiLSTMWithAttention, Test Loss: 0.1958, Accuracy: 96.61%
+2025-04-04 23:03:26 - INFO - Epoch [46/100] - BiLSTMWithAttention, Training Loss: 0.0009, Learning Rate: 0.000500
+2025-04-04 23:03:26 - INFO - Epoch [46/100] - BiLSTMWithAttention, Test Loss: 0.2004, Accuracy: 96.61%
+2025-04-04 23:03:27 - INFO - Epoch [47/100] - BiLSTMWithAttention, Training Loss: 0.0009, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [47/100] - BiLSTMWithAttention, Test Loss: 0.3497, Accuracy: 94.92%
+2025-04-04 23:03:27 - INFO - Epoch [48/100] - BiLSTMWithAttention, Training Loss: 0.0342, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [48/100] - BiLSTMWithAttention, Test Loss: 0.2194, Accuracy: 96.61%
+2025-04-04 23:03:27 - INFO - Epoch [49/100] - BiLSTMWithAttention, Training Loss: 0.0058, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [49/100] - BiLSTMWithAttention, Test Loss: 0.3170, Accuracy: 94.92%
+2025-04-04 23:03:27 - INFO - Epoch [50/100] - BiLSTMWithAttention, Training Loss: 0.0079, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [50/100] - BiLSTMWithAttention, Test Loss: 0.3282, Accuracy: 94.92%
+2025-04-04 23:03:27 - INFO - Epoch [51/100] - BiLSTMWithAttention, Training Loss: 0.0005, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [51/100] - BiLSTMWithAttention, Test Loss: 0.3552, Accuracy: 93.22%
+2025-04-04 23:03:27 - INFO - Epoch [52/100] - BiLSTMWithAttention, Training Loss: 0.0006, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [52/100] - BiLSTMWithAttention, Test Loss: 0.3567, Accuracy: 93.22%
+2025-04-04 23:03:27 - INFO - Epoch [53/100] - BiLSTMWithAttention, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:27 - INFO - Epoch [53/100] - BiLSTMWithAttention, Test Loss: 0.2455, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [54/100] - BiLSTMWithAttention, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [54/100] - BiLSTMWithAttention, Test Loss: 0.2466, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [55/100] - BiLSTMWithAttention, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [55/100] - BiLSTMWithAttention, Test Loss: 0.2486, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [56/100] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [56/100] - BiLSTMWithAttention, Test Loss: 0.2543, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [57/100] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [57/100] - BiLSTMWithAttention, Test Loss: 0.2575, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [58/100] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [58/100] - BiLSTMWithAttention, Test Loss: 0.2595, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [59/100] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [59/100] - BiLSTMWithAttention, Test Loss: 0.2612, Accuracy: 94.92%
+2025-04-04 23:03:28 - INFO - Epoch [60/100] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:28 - INFO - Epoch [60/100] - BiLSTMWithAttention, Test Loss: 0.2628, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [61/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [61/100] - BiLSTMWithAttention, Test Loss: 0.2640, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [62/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [62/100] - BiLSTMWithAttention, Test Loss: 0.2647, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [63/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [63/100] - BiLSTMWithAttention, Test Loss: 0.2655, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [64/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [64/100] - BiLSTMWithAttention, Test Loss: 0.2666, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [65/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [65/100] - BiLSTMWithAttention, Test Loss: 0.2676, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [66/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [66/100] - BiLSTMWithAttention, Test Loss: 0.2685, Accuracy: 94.92%
+2025-04-04 23:03:29 - INFO - Epoch [67/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:29 - INFO - Epoch [67/100] - BiLSTMWithAttention, Test Loss: 0.2692, Accuracy: 94.92%
+2025-04-04 23:03:30 - INFO - Epoch [68/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:30 - INFO - Epoch [68/100] - BiLSTMWithAttention, Test Loss: 0.2702, Accuracy: 94.92%
+2025-04-04 23:03:30 - INFO - Epoch [69/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:30 - INFO - Epoch [69/100] - BiLSTMWithAttention, Test Loss: 0.2711, Accuracy: 94.92%
+2025-04-04 23:03:30 - INFO - Epoch [70/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:30 - INFO - Epoch [70/100] - BiLSTMWithAttention, Test Loss: 0.2721, Accuracy: 94.92%
+2025-04-04 23:03:30 - INFO - Epoch [71/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:30 - INFO - Epoch [71/100] - BiLSTMWithAttention, Test Loss: 0.2733, Accuracy: 94.92%
+2025-04-04 23:03:30 - INFO - Epoch [72/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:30 - INFO - Epoch [72/100] - BiLSTMWithAttention, Test Loss: 0.2746, Accuracy: 94.92%
+2025-04-04 23:03:30 - INFO - Epoch [73/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:30 - INFO - Epoch [73/100] - BiLSTMWithAttention, Test Loss: 0.2758, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [74/100] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [74/100] - BiLSTMWithAttention, Test Loss: 0.2770, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [75/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [75/100] - BiLSTMWithAttention, Test Loss: 0.2780, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [76/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [76/100] - BiLSTMWithAttention, Test Loss: 0.2790, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [77/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [77/100] - BiLSTMWithAttention, Test Loss: 0.2798, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [78/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [78/100] - BiLSTMWithAttention, Test Loss: 0.2807, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [79/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [79/100] - BiLSTMWithAttention, Test Loss: 0.2817, Accuracy: 94.92%
+2025-04-04 23:03:31 - INFO - Epoch [80/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:31 - INFO - Epoch [80/100] - BiLSTMWithAttention, Test Loss: 0.2827, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [81/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [81/100] - BiLSTMWithAttention, Test Loss: 0.2838, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [82/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [82/100] - BiLSTMWithAttention, Test Loss: 0.2849, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [83/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [83/100] - BiLSTMWithAttention, Test Loss: 0.2863, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [84/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [84/100] - BiLSTMWithAttention, Test Loss: 0.2875, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [85/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [85/100] - BiLSTMWithAttention, Test Loss: 0.2886, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [86/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [86/100] - BiLSTMWithAttention, Test Loss: 0.2895, Accuracy: 94.92%
+2025-04-04 23:03:32 - INFO - Epoch [87/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:32 - INFO - Epoch [87/100] - BiLSTMWithAttention, Test Loss: 0.2904, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [88/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [88/100] - BiLSTMWithAttention, Test Loss: 0.2917, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [89/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [89/100] - BiLSTMWithAttention, Test Loss: 0.2928, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [90/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [90/100] - BiLSTMWithAttention, Test Loss: 0.2937, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [91/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [91/100] - BiLSTMWithAttention, Test Loss: 0.2945, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [92/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [92/100] - BiLSTMWithAttention, Test Loss: 0.2954, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [93/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [93/100] - BiLSTMWithAttention, Test Loss: 0.2965, Accuracy: 94.92%
+2025-04-04 23:03:33 - INFO - Epoch [94/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:33 - INFO - Epoch [94/100] - BiLSTMWithAttention, Test Loss: 0.2976, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Epoch [95/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:34 - INFO - Epoch [95/100] - BiLSTMWithAttention, Test Loss: 0.2986, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Epoch [96/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:34 - INFO - Epoch [96/100] - BiLSTMWithAttention, Test Loss: 0.2997, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Epoch [97/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:34 - INFO - Epoch [97/100] - BiLSTMWithAttention, Test Loss: 0.3006, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Epoch [98/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:34 - INFO - Epoch [98/100] - BiLSTMWithAttention, Test Loss: 0.3016, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Epoch [99/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:34 - INFO - Epoch [99/100] - BiLSTMWithAttention, Test Loss: 0.3025, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Epoch [100/100] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:34 - INFO - Epoch [100/100] - BiLSTMWithAttention, Test Loss: 0.3035, Accuracy: 94.92%
+2025-04-04 23:03:34 - INFO - Training and evaluation complete for BiLSTMWithAttention. Best model saved with accuracy: 96.61%
+2025-04-04 23:03:34 - INFO - Training model: CNNLSTM
+2025-04-04 23:03:35 - INFO - Epoch [1/100] - CNNLSTM, Training Loss: 1.0897, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [1/100] - CNNLSTM, Test Loss: 1.0689, Accuracy: 38.98%
+2025-04-04 23:03:35 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 38.98%
+2025-04-04 23:03:35 - INFO - Epoch [2/100] - CNNLSTM, Training Loss: 0.9382, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [2/100] - CNNLSTM, Test Loss: 0.9016, Accuracy: 66.10%
+2025-04-04 23:03:35 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 66.10%
+2025-04-04 23:03:35 - INFO - Epoch [3/100] - CNNLSTM, Training Loss: 0.9151, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [3/100] - CNNLSTM, Test Loss: 1.2397, Accuracy: 47.46%
+2025-04-04 23:03:35 - INFO - Epoch [4/100] - CNNLSTM, Training Loss: 0.6598, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [4/100] - CNNLSTM, Test Loss: 0.6042, Accuracy: 79.66%
+2025-04-04 23:03:35 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 79.66%
+2025-04-04 23:03:35 - INFO - Epoch [5/100] - CNNLSTM, Training Loss: 0.5189, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [5/100] - CNNLSTM, Test Loss: 0.6137, Accuracy: 77.97%
+2025-04-04 23:03:35 - INFO - Epoch [6/100] - CNNLSTM, Training Loss: 0.4600, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [6/100] - CNNLSTM, Test Loss: 0.4393, Accuracy: 84.75%
+2025-04-04 23:03:35 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 84.75%
+2025-04-04 23:03:35 - INFO - Epoch [7/100] - CNNLSTM, Training Loss: 0.3581, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [7/100] - CNNLSTM, Test Loss: 0.4965, Accuracy: 86.44%
+2025-04-04 23:03:35 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 86.44%
+2025-04-04 23:03:35 - INFO - Epoch [8/100] - CNNLSTM, Training Loss: 0.2591, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [8/100] - CNNLSTM, Test Loss: 0.5335, Accuracy: 84.75%
+2025-04-04 23:03:35 - INFO - Epoch [9/100] - CNNLSTM, Training Loss: 0.2217, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [9/100] - CNNLSTM, Test Loss: 0.5323, Accuracy: 84.75%
+2025-04-04 23:03:35 - INFO - Epoch [10/100] - CNNLSTM, Training Loss: 0.1817, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [10/100] - CNNLSTM, Test Loss: 0.5568, Accuracy: 83.05%
+2025-04-04 23:03:35 - INFO - Epoch [11/100] - CNNLSTM, Training Loss: 0.2681, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [11/100] - CNNLSTM, Test Loss: 0.6986, Accuracy: 83.05%
+2025-04-04 23:03:35 - INFO - Epoch [12/100] - CNNLSTM, Training Loss: 0.4088, Learning Rate: 0.001000
+2025-04-04 23:03:35 - INFO - Epoch [12/100] - CNNLSTM, Test Loss: 0.4500, Accuracy: 88.14%
+2025-04-04 23:03:35 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 88.14%
+2025-04-04 23:03:36 - INFO - Epoch [13/100] - CNNLSTM, Training Loss: 0.2199, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [13/100] - CNNLSTM, Test Loss: 0.5674, Accuracy: 86.44%
+2025-04-04 23:03:36 - INFO - Epoch [14/100] - CNNLSTM, Training Loss: 0.1791, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [14/100] - CNNLSTM, Test Loss: 0.6040, Accuracy: 88.14%
+2025-04-04 23:03:36 - INFO - Epoch [15/100] - CNNLSTM, Training Loss: 0.1899, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [15/100] - CNNLSTM, Test Loss: 0.3940, Accuracy: 91.53%
+2025-04-04 23:03:36 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 91.53%
+2025-04-04 23:03:36 - INFO - Epoch [16/100] - CNNLSTM, Training Loss: 0.0965, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [16/100] - CNNLSTM, Test Loss: 0.4548, Accuracy: 88.14%
+2025-04-04 23:03:36 - INFO - Epoch [17/100] - CNNLSTM, Training Loss: 0.0521, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [17/100] - CNNLSTM, Test Loss: 0.5319, Accuracy: 89.83%
+2025-04-04 23:03:36 - INFO - Epoch [18/100] - CNNLSTM, Training Loss: 0.0976, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [18/100] - CNNLSTM, Test Loss: 0.6947, Accuracy: 88.14%
+2025-04-04 23:03:36 - INFO - Epoch [19/100] - CNNLSTM, Training Loss: 0.1253, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [19/100] - CNNLSTM, Test Loss: 1.0963, Accuracy: 81.36%
+2025-04-04 23:03:36 - INFO - Epoch [20/100] - CNNLSTM, Training Loss: 0.2615, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [20/100] - CNNLSTM, Test Loss: 0.6460, Accuracy: 86.44%
+2025-04-04 23:03:36 - INFO - Epoch [21/100] - CNNLSTM, Training Loss: 0.0745, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [21/100] - CNNLSTM, Test Loss: 0.6060, Accuracy: 86.44%
+2025-04-04 23:03:36 - INFO - Epoch [22/100] - CNNLSTM, Training Loss: 0.0497, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [22/100] - CNNLSTM, Test Loss: 0.5317, Accuracy: 89.83%
+2025-04-04 23:03:36 - INFO - Epoch [23/100] - CNNLSTM, Training Loss: 0.0606, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [23/100] - CNNLSTM, Test Loss: 0.4696, Accuracy: 93.22%
+2025-04-04 23:03:36 - INFO - Best model saved to CNNLSTM_best_model_2.0.pth with accuracy: 93.22%
+2025-04-04 23:03:36 - INFO - Epoch [24/100] - CNNLSTM, Training Loss: 0.0752, Learning Rate: 0.001000
+2025-04-04 23:03:36 - INFO - Epoch [24/100] - CNNLSTM, Test Loss: 0.5776, Accuracy: 89.83%
+2025-04-04 23:03:37 - INFO - Epoch [25/100] - CNNLSTM, Training Loss: 0.1023, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [25/100] - CNNLSTM, Test Loss: 0.6245, Accuracy: 89.83%
+2025-04-04 23:03:37 - INFO - Epoch [26/100] - CNNLSTM, Training Loss: 0.0762, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [26/100] - CNNLSTM, Test Loss: 0.5518, Accuracy: 89.83%
+2025-04-04 23:03:37 - INFO - Epoch [27/100] - CNNLSTM, Training Loss: 0.0765, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [27/100] - CNNLSTM, Test Loss: 0.6135, Accuracy: 89.83%
+2025-04-04 23:03:37 - INFO - Epoch [28/100] - CNNLSTM, Training Loss: 0.0408, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [28/100] - CNNLSTM, Test Loss: 0.6813, Accuracy: 88.14%
+2025-04-04 23:03:37 - INFO - Epoch [29/100] - CNNLSTM, Training Loss: 0.0319, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [29/100] - CNNLSTM, Test Loss: 0.5154, Accuracy: 93.22%
+2025-04-04 23:03:37 - INFO - Epoch [30/100] - CNNLSTM, Training Loss: 0.0165, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [30/100] - CNNLSTM, Test Loss: 0.7588, Accuracy: 88.14%
+2025-04-04 23:03:37 - INFO - Epoch [31/100] - CNNLSTM, Training Loss: 0.0029, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [31/100] - CNNLSTM, Test Loss: 1.2116, Accuracy: 79.66%
+2025-04-04 23:03:37 - INFO - Epoch [32/100] - CNNLSTM, Training Loss: 0.0803, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [32/100] - CNNLSTM, Test Loss: 1.1166, Accuracy: 84.75%
+2025-04-04 23:03:37 - INFO - Epoch [33/100] - CNNLSTM, Training Loss: 0.3321, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [33/100] - CNNLSTM, Test Loss: 0.9123, Accuracy: 88.14%
+2025-04-04 23:03:37 - INFO - Epoch [34/100] - CNNLSTM, Training Loss: 0.3660, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [34/100] - CNNLSTM, Test Loss: 0.6898, Accuracy: 89.83%
+2025-04-04 23:03:37 - INFO - Epoch [35/100] - CNNLSTM, Training Loss: 0.0569, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [35/100] - CNNLSTM, Test Loss: 0.8634, Accuracy: 84.75%
+2025-04-04 23:03:37 - INFO - Epoch [36/100] - CNNLSTM, Training Loss: 0.0493, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [36/100] - CNNLSTM, Test Loss: 0.8992, Accuracy: 84.75%
+2025-04-04 23:03:37 - INFO - Epoch [37/100] - CNNLSTM, Training Loss: 0.0997, Learning Rate: 0.001000
+2025-04-04 23:03:37 - INFO - Epoch [37/100] - CNNLSTM, Test Loss: 0.6295, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [38/100] - CNNLSTM, Training Loss: 0.0108, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [38/100] - CNNLSTM, Test Loss: 0.7026, Accuracy: 89.83%
+2025-04-04 23:03:38 - INFO - Epoch [39/100] - CNNLSTM, Training Loss: 0.0093, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [39/100] - CNNLSTM, Test Loss: 0.6609, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [40/100] - CNNLSTM, Training Loss: 0.0023, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [40/100] - CNNLSTM, Test Loss: 0.6695, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [41/100] - CNNLSTM, Training Loss: 0.0016, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [41/100] - CNNLSTM, Test Loss: 0.6848, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [42/100] - CNNLSTM, Training Loss: 0.0011, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [42/100] - CNNLSTM, Test Loss: 0.6979, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [43/100] - CNNLSTM, Training Loss: 0.0008, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [43/100] - CNNLSTM, Test Loss: 0.7095, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [44/100] - CNNLSTM, Training Loss: 0.0006, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [44/100] - CNNLSTM, Test Loss: 0.7185, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [45/100] - CNNLSTM, Training Loss: 0.0006, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [45/100] - CNNLSTM, Test Loss: 0.7262, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [46/100] - CNNLSTM, Training Loss: 0.0005, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [46/100] - CNNLSTM, Test Loss: 0.7332, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [47/100] - CNNLSTM, Training Loss: 0.0005, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [47/100] - CNNLSTM, Test Loss: 0.7392, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [48/100] - CNNLSTM, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [48/100] - CNNLSTM, Test Loss: 0.7450, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [49/100] - CNNLSTM, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [49/100] - CNNLSTM, Test Loss: 0.7503, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [50/100] - CNNLSTM, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [50/100] - CNNLSTM, Test Loss: 0.7554, Accuracy: 91.53%
+2025-04-04 23:03:38 - INFO - Epoch [51/100] - CNNLSTM, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-04 23:03:38 - INFO - Epoch [51/100] - CNNLSTM, Test Loss: 0.7602, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [52/100] - CNNLSTM, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [52/100] - CNNLSTM, Test Loss: 0.7649, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [53/100] - CNNLSTM, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [53/100] - CNNLSTM, Test Loss: 0.7691, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [54/100] - CNNLSTM, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [54/100] - CNNLSTM, Test Loss: 0.7733, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [55/100] - CNNLSTM, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [55/100] - CNNLSTM, Test Loss: 0.7772, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [56/100] - CNNLSTM, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [56/100] - CNNLSTM, Test Loss: 0.7810, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [57/100] - CNNLSTM, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [57/100] - CNNLSTM, Test Loss: 0.7848, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [58/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [58/100] - CNNLSTM, Test Loss: 0.7887, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [59/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [59/100] - CNNLSTM, Test Loss: 0.7925, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [60/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [60/100] - CNNLSTM, Test Loss: 0.7962, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [61/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [61/100] - CNNLSTM, Test Loss: 0.7999, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [62/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [62/100] - CNNLSTM, Test Loss: 0.8036, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [63/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [63/100] - CNNLSTM, Test Loss: 0.8072, Accuracy: 91.53%
+2025-04-04 23:03:39 - INFO - Epoch [64/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:39 - INFO - Epoch [64/100] - CNNLSTM, Test Loss: 0.8105, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [65/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [65/100] - CNNLSTM, Test Loss: 0.8138, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [66/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [66/100] - CNNLSTM, Test Loss: 0.8170, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [67/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [67/100] - CNNLSTM, Test Loss: 0.8201, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [68/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [68/100] - CNNLSTM, Test Loss: 0.8231, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [69/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [69/100] - CNNLSTM, Test Loss: 0.8260, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [70/100] - CNNLSTM, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [70/100] - CNNLSTM, Test Loss: 0.8292, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [71/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [71/100] - CNNLSTM, Test Loss: 0.8322, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [72/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [72/100] - CNNLSTM, Test Loss: 0.8350, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [73/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [73/100] - CNNLSTM, Test Loss: 0.8379, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [74/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [74/100] - CNNLSTM, Test Loss: 0.8408, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [75/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [75/100] - CNNLSTM, Test Loss: 0.8435, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [76/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [76/100] - CNNLSTM, Test Loss: 0.8461, Accuracy: 91.53%
+2025-04-04 23:03:40 - INFO - Epoch [77/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:40 - INFO - Epoch [77/100] - CNNLSTM, Test Loss: 0.8487, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [78/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [78/100] - CNNLSTM, Test Loss: 0.8512, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [79/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [79/100] - CNNLSTM, Test Loss: 0.8537, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [80/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [80/100] - CNNLSTM, Test Loss: 0.8562, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [81/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [81/100] - CNNLSTM, Test Loss: 0.8585, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [82/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [82/100] - CNNLSTM, Test Loss: 0.8607, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [83/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [83/100] - CNNLSTM, Test Loss: 0.8629, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [84/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [84/100] - CNNLSTM, Test Loss: 0.8651, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [85/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [85/100] - CNNLSTM, Test Loss: 0.8674, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [86/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [86/100] - CNNLSTM, Test Loss: 0.8696, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [87/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [87/100] - CNNLSTM, Test Loss: 0.8716, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [88/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [88/100] - CNNLSTM, Test Loss: 0.8736, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [89/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [89/100] - CNNLSTM, Test Loss: 0.8757, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [90/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [90/100] - CNNLSTM, Test Loss: 0.8776, Accuracy: 91.53%
+2025-04-04 23:03:41 - INFO - Epoch [91/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:41 - INFO - Epoch [91/100] - CNNLSTM, Test Loss: 0.8795, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [92/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-04 23:03:42 - INFO - Epoch [92/100] - CNNLSTM, Test Loss: 0.8815, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [93/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [93/100] - CNNLSTM, Test Loss: 0.8826, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [94/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [94/100] - CNNLSTM, Test Loss: 0.8836, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [95/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [95/100] - CNNLSTM, Test Loss: 0.8845, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [96/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [96/100] - CNNLSTM, Test Loss: 0.8855, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [97/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [97/100] - CNNLSTM, Test Loss: 0.8865, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [98/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [98/100] - CNNLSTM, Test Loss: 0.8875, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [99/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [99/100] - CNNLSTM, Test Loss: 0.8886, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Epoch [100/100] - CNNLSTM, Training Loss: 0.0001, Learning Rate: 0.000250
+2025-04-04 23:03:42 - INFO - Epoch [100/100] - CNNLSTM, Test Loss: 0.8895, Accuracy: 91.53%
+2025-04-04 23:03:42 - INFO - Training and evaluation complete for CNNLSTM. Best model saved with accuracy: 93.22%
+2025-04-04 23:03:42 - INFO - Training model: LSTM
+2025-04-04 23:03:42 - INFO - Epoch [1/100] - LSTM, Training Loss: 1.0558, Learning Rate: 0.001000
+2025-04-04 23:03:42 - INFO - Epoch [1/100] - LSTM, Test Loss: 0.8981, Accuracy: 61.02%
+2025-04-04 23:03:42 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 61.02%
+2025-04-04 23:03:42 - INFO - Epoch [2/100] - LSTM, Training Loss: 0.7585, Learning Rate: 0.001000
+2025-04-04 23:03:42 - INFO - Epoch [2/100] - LSTM, Test Loss: 0.7326, Accuracy: 66.10%
+2025-04-04 23:03:42 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 66.10%
+2025-04-04 23:03:43 - INFO - Epoch [3/100] - LSTM, Training Loss: 0.6723, Learning Rate: 0.001000
+2025-04-04 23:03:43 - INFO - Epoch [3/100] - LSTM, Test Loss: 0.6685, Accuracy: 66.10%
+2025-04-04 23:03:43 - INFO - Epoch [4/100] - LSTM, Training Loss: 0.5200, Learning Rate: 0.001000
+2025-04-04 23:03:43 - INFO - Epoch [4/100] - LSTM, Test Loss: 0.5347, Accuracy: 83.05%
+2025-04-04 23:03:43 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 83.05%
+2025-04-04 23:03:43 - INFO - Epoch [5/100] - LSTM, Training Loss: 0.5892, Learning Rate: 0.001000
+2025-04-04 23:03:43 - INFO - Epoch [5/100] - LSTM, Test Loss: 0.4026, Accuracy: 88.14%
+2025-04-04 23:03:43 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 88.14%
+2025-04-04 23:03:43 - INFO - Epoch [6/100] - LSTM, Training Loss: 0.3630, Learning Rate: 0.001000
+2025-04-04 23:03:43 - INFO - Epoch [6/100] - LSTM, Test Loss: 0.3800, Accuracy: 89.83%
+2025-04-04 23:03:43 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 89.83%
+2025-04-04 23:03:43 - INFO - Epoch [7/100] - LSTM, Training Loss: 0.3361, Learning Rate: 0.001000
+2025-04-04 23:03:43 - INFO - Epoch [7/100] - LSTM, Test Loss: 0.3344, Accuracy: 93.22%
+2025-04-04 23:03:43 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 93.22%
+2025-04-04 23:03:43 - INFO - Epoch [8/100] - LSTM, Training Loss: 0.4142, Learning Rate: 0.001000
+2025-04-04 23:03:43 - INFO - Epoch [8/100] - LSTM, Test Loss: 0.3376, Accuracy: 91.53%
+2025-04-04 23:03:44 - INFO - Epoch [9/100] - LSTM, Training Loss: 0.2309, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [9/100] - LSTM, Test Loss: 0.3240, Accuracy: 89.83%
+2025-04-04 23:03:44 - INFO - Epoch [10/100] - LSTM, Training Loss: 0.1823, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [10/100] - LSTM, Test Loss: 0.3844, Accuracy: 89.83%
+2025-04-04 23:03:44 - INFO - Epoch [11/100] - LSTM, Training Loss: 0.2110, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [11/100] - LSTM, Test Loss: 0.2543, Accuracy: 94.92%
+2025-04-04 23:03:44 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 94.92%
+2025-04-04 23:03:44 - INFO - Epoch [12/100] - LSTM, Training Loss: 0.1596, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [12/100] - LSTM, Test Loss: 0.4310, Accuracy: 89.83%
+2025-04-04 23:03:44 - INFO - Epoch [13/100] - LSTM, Training Loss: 0.1373, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [13/100] - LSTM, Test Loss: 0.2905, Accuracy: 91.53%
+2025-04-04 23:03:44 - INFO - Epoch [14/100] - LSTM, Training Loss: 0.0892, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [14/100] - LSTM, Test Loss: 0.4718, Accuracy: 91.53%
+2025-04-04 23:03:44 - INFO - Epoch [15/100] - LSTM, Training Loss: 0.1162, Learning Rate: 0.001000
+2025-04-04 23:03:44 - INFO - Epoch [15/100] - LSTM, Test Loss: 0.4529, Accuracy: 89.83%
+2025-04-04 23:03:45 - INFO - Epoch [16/100] - LSTM, Training Loss: 0.0723, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [16/100] - LSTM, Test Loss: 0.2843, Accuracy: 94.92%
+2025-04-04 23:03:45 - INFO - Epoch [17/100] - LSTM, Training Loss: 0.0764, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [17/100] - LSTM, Test Loss: 0.1973, Accuracy: 96.61%
+2025-04-04 23:03:45 - INFO - Best model saved to LSTM_best_model_2.0.pth with accuracy: 96.61%
+2025-04-04 23:03:45 - INFO - Epoch [18/100] - LSTM, Training Loss: 0.0468, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [18/100] - LSTM, Test Loss: 0.2448, Accuracy: 94.92%
+2025-04-04 23:03:45 - INFO - Epoch [19/100] - LSTM, Training Loss: 0.0561, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [19/100] - LSTM, Test Loss: 0.5376, Accuracy: 91.53%
+2025-04-04 23:03:45 - INFO - Epoch [20/100] - LSTM, Training Loss: 0.0486, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [20/100] - LSTM, Test Loss: 0.1922, Accuracy: 96.61%
+2025-04-04 23:03:45 - INFO - Epoch [21/100] - LSTM, Training Loss: 0.0737, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [21/100] - LSTM, Test Loss: 0.4989, Accuracy: 93.22%
+2025-04-04 23:03:45 - INFO - Epoch [22/100] - LSTM, Training Loss: 0.0476, Learning Rate: 0.001000
+2025-04-04 23:03:45 - INFO - Epoch [22/100] - LSTM, Test Loss: 0.3444, Accuracy: 94.92%
+2025-04-04 23:03:46 - INFO - Epoch [23/100] - LSTM, Training Loss: 0.0291, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [23/100] - LSTM, Test Loss: 0.5115, Accuracy: 88.14%
+2025-04-04 23:03:46 - INFO - Epoch [24/100] - LSTM, Training Loss: 0.0643, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [24/100] - LSTM, Test Loss: 0.4670, Accuracy: 89.83%
+2025-04-04 23:03:46 - INFO - Epoch [25/100] - LSTM, Training Loss: 0.0037, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [25/100] - LSTM, Test Loss: 0.4902, Accuracy: 89.83%
+2025-04-04 23:03:46 - INFO - Epoch [26/100] - LSTM, Training Loss: 0.0032, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [26/100] - LSTM, Test Loss: 0.5960, Accuracy: 88.14%
+2025-04-04 23:03:46 - INFO - Epoch [27/100] - LSTM, Training Loss: 0.0021, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [27/100] - LSTM, Test Loss: 0.5642, Accuracy: 91.53%
+2025-04-04 23:03:46 - INFO - Epoch [28/100] - LSTM, Training Loss: 0.0010, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [28/100] - LSTM, Test Loss: 0.5718, Accuracy: 91.53%
+2025-04-04 23:03:46 - INFO - Epoch [29/100] - LSTM, Training Loss: 0.0014, Learning Rate: 0.001000
+2025-04-04 23:03:46 - INFO - Epoch [29/100] - LSTM, Test Loss: 0.6111, Accuracy: 91.53%
+2025-04-04 23:03:47 - INFO - Epoch [30/100] - LSTM, Training Loss: 0.0005, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [30/100] - LSTM, Test Loss: 0.7957, Accuracy: 88.14%
+2025-04-04 23:03:47 - INFO - Epoch [31/100] - LSTM, Training Loss: 0.0049, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [31/100] - LSTM, Test Loss: 0.5999, Accuracy: 93.22%
+2025-04-04 23:03:47 - INFO - Epoch [32/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [32/100] - LSTM, Test Loss: 0.5741, Accuracy: 93.22%
+2025-04-04 23:03:47 - INFO - Epoch [33/100] - LSTM, Training Loss: 0.0123, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [33/100] - LSTM, Test Loss: 0.5945, Accuracy: 93.22%
+2025-04-04 23:03:47 - INFO - Epoch [34/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [34/100] - LSTM, Test Loss: 0.7098, Accuracy: 91.53%
+2025-04-04 23:03:47 - INFO - Epoch [35/100] - LSTM, Training Loss: 0.0020, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [35/100] - LSTM, Test Loss: 0.4662, Accuracy: 94.92%
+2025-04-04 23:03:47 - INFO - Epoch [36/100] - LSTM, Training Loss: 0.0325, Learning Rate: 0.001000
+2025-04-04 23:03:47 - INFO - Epoch [36/100] - LSTM, Test Loss: 0.4704, Accuracy: 94.92%
+2025-04-04 23:03:48 - INFO - Epoch [37/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.001000
+2025-04-04 23:03:48 - INFO - Epoch [37/100] - LSTM, Test Loss: 0.6932, Accuracy: 91.53%
+2025-04-04 23:03:48 - INFO - Epoch [38/100] - LSTM, Training Loss: 0.0438, Learning Rate: 0.001000
+2025-04-04 23:03:48 - INFO - Epoch [38/100] - LSTM, Test Loss: 0.6072, Accuracy: 93.22%
+2025-04-04 23:03:48 - INFO - Epoch [39/100] - LSTM, Training Loss: 0.0063, Learning Rate: 0.001000
+2025-04-04 23:03:48 - INFO - Epoch [39/100] - LSTM, Test Loss: 0.4745, Accuracy: 93.22%
+2025-04-04 23:03:48 - INFO - Epoch [40/100] - LSTM, Training Loss: 0.0648, Learning Rate: 0.001000
+2025-04-04 23:03:48 - INFO - Epoch [40/100] - LSTM, Test Loss: 0.5084, Accuracy: 93.22%
+2025-04-04 23:03:48 - INFO - Epoch [41/100] - LSTM, Training Loss: 0.0273, Learning Rate: 0.000500
+2025-04-04 23:03:48 - INFO - Epoch [41/100] - LSTM, Test Loss: 0.4663, Accuracy: 94.92%
+2025-04-04 23:03:48 - INFO - Epoch [42/100] - LSTM, Training Loss: 0.0089, Learning Rate: 0.000500
+2025-04-04 23:03:48 - INFO - Epoch [42/100] - LSTM, Test Loss: 0.6904, Accuracy: 91.53%
+2025-04-04 23:03:48 - INFO - Epoch [43/100] - LSTM, Training Loss: 0.0448, Learning Rate: 0.000500
+2025-04-04 23:03:48 - INFO - Epoch [43/100] - LSTM, Test Loss: 0.4528, Accuracy: 94.92%
+2025-04-04 23:03:49 - INFO - Epoch [44/100] - LSTM, Training Loss: 0.0036, Learning Rate: 0.000500
+2025-04-04 23:03:49 - INFO - Epoch [44/100] - LSTM, Test Loss: 0.4607, Accuracy: 94.92%
+2025-04-04 23:03:49 - INFO - Epoch [45/100] - LSTM, Training Loss: 0.0034, Learning Rate: 0.000500
+2025-04-04 23:03:49 - INFO - Epoch [45/100] - LSTM, Test Loss: 0.7488, Accuracy: 91.53%
+2025-04-04 23:03:49 - INFO - Epoch [46/100] - LSTM, Training Loss: 0.0317, Learning Rate: 0.000500
+2025-04-04 23:03:49 - INFO - Epoch [46/100] - LSTM, Test Loss: 0.4570, Accuracy: 94.92%
+2025-04-04 23:03:49 - INFO - Epoch [47/100] - LSTM, Training Loss: 0.0010, Learning Rate: 0.000250
+2025-04-04 23:03:49 - INFO - Epoch [47/100] - LSTM, Test Loss: 0.4547, Accuracy: 94.92%
+2025-04-04 23:03:49 - INFO - Epoch [48/100] - LSTM, Training Loss: 0.0057, Learning Rate: 0.000250
+2025-04-04 23:03:49 - INFO - Epoch [48/100] - LSTM, Test Loss: 0.4593, Accuracy: 94.92%
+2025-04-04 23:03:49 - INFO - Epoch [49/100] - LSTM, Training Loss: 0.0007, Learning Rate: 0.000250
+2025-04-04 23:03:49 - INFO - Epoch [49/100] - LSTM, Test Loss: 0.4629, Accuracy: 94.92%
+2025-04-04 23:03:49 - INFO - Epoch [50/100] - LSTM, Training Loss: 0.0005, Learning Rate: 0.000250
+2025-04-04 23:03:49 - INFO - Epoch [50/100] - LSTM, Test Loss: 0.5062, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [51/100] - LSTM, Training Loss: 0.0006, Learning Rate: 0.000250
+2025-04-04 23:03:50 - INFO - Epoch [51/100] - LSTM, Test Loss: 0.5266, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [52/100] - LSTM, Training Loss: 0.0006, Learning Rate: 0.000250
+2025-04-04 23:03:50 - INFO - Epoch [52/100] - LSTM, Test Loss: 0.5267, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [53/100] - LSTM, Training Loss: 0.0005, Learning Rate: 0.000125
+2025-04-04 23:03:50 - INFO - Epoch [53/100] - LSTM, Test Loss: 0.5265, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [54/100] - LSTM, Training Loss: 0.0005, Learning Rate: 0.000125
+2025-04-04 23:03:50 - INFO - Epoch [54/100] - LSTM, Test Loss: 0.5276, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [55/100] - LSTM, Training Loss: 0.0005, Learning Rate: 0.000125
+2025-04-04 23:03:50 - INFO - Epoch [55/100] - LSTM, Test Loss: 0.5296, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [56/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000125
+2025-04-04 23:03:50 - INFO - Epoch [56/100] - LSTM, Test Loss: 0.5316, Accuracy: 93.22%
+2025-04-04 23:03:50 - INFO - Epoch [57/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000125
+2025-04-04 23:03:50 - INFO - Epoch [57/100] - LSTM, Test Loss: 0.5336, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [58/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000125
+2025-04-04 23:03:51 - INFO - Epoch [58/100] - LSTM, Test Loss: 0.5359, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [59/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000063
+2025-04-04 23:03:51 - INFO - Epoch [59/100] - LSTM, Test Loss: 0.5367, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [60/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000063
+2025-04-04 23:03:51 - INFO - Epoch [60/100] - LSTM, Test Loss: 0.5377, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [61/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000063
+2025-04-04 23:03:51 - INFO - Epoch [61/100] - LSTM, Test Loss: 0.5390, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [62/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000063
+2025-04-04 23:03:51 - INFO - Epoch [62/100] - LSTM, Test Loss: 0.5391, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [63/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000063
+2025-04-04 23:03:51 - INFO - Epoch [63/100] - LSTM, Test Loss: 0.5397, Accuracy: 93.22%
+2025-04-04 23:03:51 - INFO - Epoch [64/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000063
+2025-04-04 23:03:51 - INFO - Epoch [64/100] - LSTM, Test Loss: 0.5403, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [65/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000031
+2025-04-04 23:03:52 - INFO - Epoch [65/100] - LSTM, Test Loss: 0.5408, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [66/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000031
+2025-04-04 23:03:52 - INFO - Epoch [66/100] - LSTM, Test Loss: 0.5407, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [67/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000031
+2025-04-04 23:03:52 - INFO - Epoch [67/100] - LSTM, Test Loss: 0.5408, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [68/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000031
+2025-04-04 23:03:52 - INFO - Epoch [68/100] - LSTM, Test Loss: 0.5411, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [69/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000031
+2025-04-04 23:03:52 - INFO - Epoch [69/100] - LSTM, Test Loss: 0.5416, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [70/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000031
+2025-04-04 23:03:52 - INFO - Epoch [70/100] - LSTM, Test Loss: 0.5421, Accuracy: 93.22%
+2025-04-04 23:03:52 - INFO - Epoch [71/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000016
+2025-04-04 23:03:52 - INFO - Epoch [71/100] - LSTM, Test Loss: 0.5424, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [72/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000016
+2025-04-04 23:03:53 - INFO - Epoch [72/100] - LSTM, Test Loss: 0.5425, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [73/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000016
+2025-04-04 23:03:53 - INFO - Epoch [73/100] - LSTM, Test Loss: 0.5427, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [74/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000016
+2025-04-04 23:03:53 - INFO - Epoch [74/100] - LSTM, Test Loss: 0.5430, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [75/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000016
+2025-04-04 23:03:53 - INFO - Epoch [75/100] - LSTM, Test Loss: 0.5432, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [76/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000016
+2025-04-04 23:03:53 - INFO - Epoch [76/100] - LSTM, Test Loss: 0.5436, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [77/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000008
+2025-04-04 23:03:53 - INFO - Epoch [77/100] - LSTM, Test Loss: 0.5437, Accuracy: 93.22%
+2025-04-04 23:03:53 - INFO - Epoch [78/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000008
+2025-04-04 23:03:53 - INFO - Epoch [78/100] - LSTM, Test Loss: 0.5438, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [79/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000008
+2025-04-04 23:03:54 - INFO - Epoch [79/100] - LSTM, Test Loss: 0.5440, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [80/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000008
+2025-04-04 23:03:54 - INFO - Epoch [80/100] - LSTM, Test Loss: 0.5442, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [81/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000008
+2025-04-04 23:03:54 - INFO - Epoch [81/100] - LSTM, Test Loss: 0.5443, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [82/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000008
+2025-04-04 23:03:54 - INFO - Epoch [82/100] - LSTM, Test Loss: 0.5445, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [83/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000004
+2025-04-04 23:03:54 - INFO - Epoch [83/100] - LSTM, Test Loss: 0.5445, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [84/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000004
+2025-04-04 23:03:54 - INFO - Epoch [84/100] - LSTM, Test Loss: 0.5446, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [85/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000004
+2025-04-04 23:03:54 - INFO - Epoch [85/100] - LSTM, Test Loss: 0.5446, Accuracy: 93.22%
+2025-04-04 23:03:54 - INFO - Epoch [86/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000004
+2025-04-04 23:03:55 - INFO - Epoch [86/100] - LSTM, Test Loss: 0.5447, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [87/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000004
+2025-04-04 23:03:55 - INFO - Epoch [87/100] - LSTM, Test Loss: 0.5447, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [88/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000004
+2025-04-04 23:03:55 - INFO - Epoch [88/100] - LSTM, Test Loss: 0.5448, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [89/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000002
+2025-04-04 23:03:55 - INFO - Epoch [89/100] - LSTM, Test Loss: 0.5448, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [90/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000002
+2025-04-04 23:03:55 - INFO - Epoch [90/100] - LSTM, Test Loss: 0.5448, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [91/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000002
+2025-04-04 23:03:55 - INFO - Epoch [91/100] - LSTM, Test Loss: 0.5448, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [92/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000002
+2025-04-04 23:03:55 - INFO - Epoch [92/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:55 - INFO - Epoch [93/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000002
+2025-04-04 23:03:55 - INFO - Epoch [93/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [94/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000002
+2025-04-04 23:03:56 - INFO - Epoch [94/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [95/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000001
+2025-04-04 23:03:56 - INFO - Epoch [95/100] - LSTM, Test Loss: 0.5450, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [96/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000001
+2025-04-04 23:03:56 - INFO - Epoch [96/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [97/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000001
+2025-04-04 23:03:56 - INFO - Epoch [97/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [98/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000001
+2025-04-04 23:03:56 - INFO - Epoch [98/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [99/100] - LSTM, Training Loss: 0.0003, Learning Rate: 0.000001
+2025-04-04 23:03:56 - INFO - Epoch [99/100] - LSTM, Test Loss: 0.5449, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Epoch [100/100] - LSTM, Training Loss: 0.0004, Learning Rate: 0.000001
+2025-04-04 23:03:56 - INFO - Epoch [100/100] - LSTM, Test Loss: 0.5450, Accuracy: 93.22%
+2025-04-04 23:03:56 - INFO - Training and evaluation complete for LSTM. Best model saved with accuracy: 96.61%

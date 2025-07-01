@@ -1,0 +1,412 @@
+2025-04-24 22:46:06 - INFO - Logging initialized successfully.
+2025-04-24 22:46:17 - INFO - Training model: BiLSTMWithAttention
+2025-04-24 22:46:18 - INFO - Epoch [1/200] - BiLSTMWithAttention, Training Loss: 0.9819, Learning Rate: 0.001000
+2025-04-24 22:46:18 - INFO - Epoch [1/200] - BiLSTMWithAttention, Test Loss: 0.6827, Accuracy: 72.41%
+2025-04-24 22:46:18 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 72.41%
+2025-04-24 22:46:18 - INFO - Epoch [2/200] - BiLSTMWithAttention, Training Loss: 0.6667, Learning Rate: 0.001000
+2025-04-24 22:46:18 - INFO - Epoch [2/200] - BiLSTMWithAttention, Test Loss: 0.5067, Accuracy: 82.76%
+2025-04-24 22:46:18 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 82.76%
+2025-04-24 22:46:18 - INFO - Epoch [3/200] - BiLSTMWithAttention, Training Loss: 0.5148, Learning Rate: 0.001000
+2025-04-24 22:46:18 - INFO - Epoch [3/200] - BiLSTMWithAttention, Test Loss: 0.3870, Accuracy: 86.21%
+2025-04-24 22:46:18 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 86.21%
+2025-04-24 22:46:18 - INFO - Epoch [4/200] - BiLSTMWithAttention, Training Loss: 0.3695, Learning Rate: 0.001000
+2025-04-24 22:46:18 - INFO - Epoch [4/200] - BiLSTMWithAttention, Test Loss: 0.2345, Accuracy: 89.66%
+2025-04-24 22:46:18 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 89.66%
+2025-04-24 22:46:18 - INFO - Epoch [5/200] - BiLSTMWithAttention, Training Loss: 0.2421, Learning Rate: 0.001000
+2025-04-24 22:46:18 - INFO - Epoch [5/200] - BiLSTMWithAttention, Test Loss: 0.2947, Accuracy: 90.80%
+2025-04-24 22:46:19 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 90.80%
+2025-04-24 22:46:19 - INFO - Epoch [6/200] - BiLSTMWithAttention, Training Loss: 0.1967, Learning Rate: 0.001000
+2025-04-24 22:46:19 - INFO - Epoch [6/200] - BiLSTMWithAttention, Test Loss: 0.5998, Accuracy: 86.21%
+2025-04-24 22:46:19 - INFO - Epoch [7/200] - BiLSTMWithAttention, Training Loss: 0.2392, Learning Rate: 0.001000
+2025-04-24 22:46:19 - INFO - Epoch [7/200] - BiLSTMWithAttention, Test Loss: 0.3886, Accuracy: 87.36%
+2025-04-24 22:46:19 - INFO - Epoch [8/200] - BiLSTMWithAttention, Training Loss: 0.1874, Learning Rate: 0.001000
+2025-04-24 22:46:19 - INFO - Epoch [8/200] - BiLSTMWithAttention, Test Loss: 0.1540, Accuracy: 94.25%
+2025-04-24 22:46:19 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 94.25%
+2025-04-24 22:46:19 - INFO - Epoch [9/200] - BiLSTMWithAttention, Training Loss: 0.1120, Learning Rate: 0.001000
+2025-04-24 22:46:19 - INFO - Epoch [9/200] - BiLSTMWithAttention, Test Loss: 0.2237, Accuracy: 94.25%
+2025-04-24 22:46:20 - INFO - Epoch [10/200] - BiLSTMWithAttention, Training Loss: 0.1188, Learning Rate: 0.001000
+2025-04-24 22:46:20 - INFO - Epoch [10/200] - BiLSTMWithAttention, Test Loss: 0.2083, Accuracy: 95.40%
+2025-04-24 22:46:20 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 95.40%
+2025-04-24 22:46:20 - INFO - Epoch [11/200] - BiLSTMWithAttention, Training Loss: 0.1493, Learning Rate: 0.001000
+2025-04-24 22:46:20 - INFO - Epoch [11/200] - BiLSTMWithAttention, Test Loss: 0.2442, Accuracy: 93.10%
+2025-04-24 22:46:20 - INFO - Epoch [12/200] - BiLSTMWithAttention, Training Loss: 0.0849, Learning Rate: 0.001000
+2025-04-24 22:46:20 - INFO - Epoch [12/200] - BiLSTMWithAttention, Test Loss: 0.3146, Accuracy: 94.25%
+2025-04-24 22:46:20 - INFO - Epoch [13/200] - BiLSTMWithAttention, Training Loss: 0.0954, Learning Rate: 0.001000
+2025-04-24 22:46:20 - INFO - Epoch [13/200] - BiLSTMWithAttention, Test Loss: 0.2138, Accuracy: 94.25%
+2025-04-24 22:46:20 - INFO - Epoch [14/200] - BiLSTMWithAttention, Training Loss: 0.0539, Learning Rate: 0.001000
+2025-04-24 22:46:20 - INFO - Epoch [14/200] - BiLSTMWithAttention, Test Loss: 0.1134, Accuracy: 96.55%
+2025-04-24 22:46:20 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 96.55%
+2025-04-24 22:46:21 - INFO - Epoch [15/200] - BiLSTMWithAttention, Training Loss: 0.0681, Learning Rate: 0.001000
+2025-04-24 22:46:21 - INFO - Epoch [15/200] - BiLSTMWithAttention, Test Loss: 0.1976, Accuracy: 97.70%
+2025-04-24 22:46:21 - INFO - Best model saved to BiLSTMWithAttention_best_model_3.0.pth with accuracy: 97.70%
+2025-04-24 22:46:21 - INFO - Epoch [16/200] - BiLSTMWithAttention, Training Loss: 0.0433, Learning Rate: 0.001000
+2025-04-24 22:46:21 - INFO - Epoch [16/200] - BiLSTMWithAttention, Test Loss: 0.2102, Accuracy: 95.40%
+2025-04-24 22:46:21 - INFO - Epoch [17/200] - BiLSTMWithAttention, Training Loss: 0.0559, Learning Rate: 0.001000
+2025-04-24 22:46:21 - INFO - Epoch [17/200] - BiLSTMWithAttention, Test Loss: 0.3402, Accuracy: 95.40%
+2025-04-24 22:46:21 - INFO - Epoch [18/200] - BiLSTMWithAttention, Training Loss: 0.0458, Learning Rate: 0.001000
+2025-04-24 22:46:21 - INFO - Epoch [18/200] - BiLSTMWithAttention, Test Loss: 0.1469, Accuracy: 95.40%
+2025-04-24 22:46:22 - INFO - Epoch [19/200] - BiLSTMWithAttention, Training Loss: 0.0299, Learning Rate: 0.001000
+2025-04-24 22:46:22 - INFO - Epoch [19/200] - BiLSTMWithAttention, Test Loss: 0.2713, Accuracy: 96.55%
+2025-04-24 22:46:22 - INFO - Epoch [20/200] - BiLSTMWithAttention, Training Loss: 0.0563, Learning Rate: 0.001000
+2025-04-24 22:46:22 - INFO - Epoch [20/200] - BiLSTMWithAttention, Test Loss: 0.2925, Accuracy: 94.25%
+2025-04-24 22:46:22 - INFO - Epoch [21/200] - BiLSTMWithAttention, Training Loss: 0.0300, Learning Rate: 0.001000
+2025-04-24 22:46:22 - INFO - Epoch [21/200] - BiLSTMWithAttention, Test Loss: 0.3121, Accuracy: 95.40%
+2025-04-24 22:46:22 - INFO - Epoch [22/200] - BiLSTMWithAttention, Training Loss: 0.0343, Learning Rate: 0.001000
+2025-04-24 22:46:22 - INFO - Epoch [22/200] - BiLSTMWithAttention, Test Loss: 0.2395, Accuracy: 95.40%
+2025-04-24 22:46:22 - INFO - Epoch [23/200] - BiLSTMWithAttention, Training Loss: 0.0700, Learning Rate: 0.001000
+2025-04-24 22:46:22 - INFO - Epoch [23/200] - BiLSTMWithAttention, Test Loss: 0.3364, Accuracy: 94.25%
+2025-04-24 22:46:23 - INFO - Epoch [24/200] - BiLSTMWithAttention, Training Loss: 0.0510, Learning Rate: 0.001000
+2025-04-24 22:46:23 - INFO - Epoch [24/200] - BiLSTMWithAttention, Test Loss: 0.3430, Accuracy: 93.10%
+2025-04-24 22:46:23 - INFO - Epoch [25/200] - BiLSTMWithAttention, Training Loss: 0.0476, Learning Rate: 0.001000
+2025-04-24 22:46:23 - INFO - Epoch [25/200] - BiLSTMWithAttention, Test Loss: 0.2148, Accuracy: 95.40%
+2025-04-24 22:46:23 - INFO - Epoch [26/200] - BiLSTMWithAttention, Training Loss: 0.0046, Learning Rate: 0.000500
+2025-04-24 22:46:23 - INFO - Epoch [26/200] - BiLSTMWithAttention, Test Loss: 0.2886, Accuracy: 95.40%
+2025-04-24 22:46:23 - INFO - Epoch [27/200] - BiLSTMWithAttention, Training Loss: 0.0037, Learning Rate: 0.000500
+2025-04-24 22:46:23 - INFO - Epoch [27/200] - BiLSTMWithAttention, Test Loss: 0.3228, Accuracy: 95.40%
+2025-04-24 22:46:23 - INFO - Epoch [28/200] - BiLSTMWithAttention, Training Loss: 0.0026, Learning Rate: 0.000500
+2025-04-24 22:46:23 - INFO - Epoch [28/200] - BiLSTMWithAttention, Test Loss: 0.3298, Accuracy: 95.40%
+2025-04-24 22:46:24 - INFO - Epoch [29/200] - BiLSTMWithAttention, Training Loss: 0.0014, Learning Rate: 0.000500
+2025-04-24 22:46:24 - INFO - Epoch [29/200] - BiLSTMWithAttention, Test Loss: 0.3336, Accuracy: 95.40%
+2025-04-24 22:46:24 - INFO - Epoch [30/200] - BiLSTMWithAttention, Training Loss: 0.0011, Learning Rate: 0.000500
+2025-04-24 22:46:24 - INFO - Epoch [30/200] - BiLSTMWithAttention, Test Loss: 0.3450, Accuracy: 95.40%
+2025-04-24 22:46:24 - INFO - Epoch [31/200] - BiLSTMWithAttention, Training Loss: 0.0009, Learning Rate: 0.000500
+2025-04-24 22:46:24 - INFO - Epoch [31/200] - BiLSTMWithAttention, Test Loss: 0.3529, Accuracy: 95.40%
+2025-04-24 22:46:24 - INFO - Epoch [32/200] - BiLSTMWithAttention, Training Loss: 0.0007, Learning Rate: 0.000500
+2025-04-24 22:46:24 - INFO - Epoch [32/200] - BiLSTMWithAttention, Test Loss: 0.3594, Accuracy: 95.40%
+2025-04-24 22:46:24 - INFO - Epoch [33/200] - BiLSTMWithAttention, Training Loss: 0.0006, Learning Rate: 0.000500
+2025-04-24 22:46:24 - INFO - Epoch [33/200] - BiLSTMWithAttention, Test Loss: 0.3659, Accuracy: 95.40%
+2025-04-24 22:46:25 - INFO - Epoch [34/200] - BiLSTMWithAttention, Training Loss: 0.0006, Learning Rate: 0.000500
+2025-04-24 22:46:25 - INFO - Epoch [34/200] - BiLSTMWithAttention, Test Loss: 0.3707, Accuracy: 95.40%
+2025-04-24 22:46:25 - INFO - Epoch [35/200] - BiLSTMWithAttention, Training Loss: 0.0005, Learning Rate: 0.000500
+2025-04-24 22:46:25 - INFO - Epoch [35/200] - BiLSTMWithAttention, Test Loss: 0.3754, Accuracy: 95.40%
+2025-04-24 22:46:25 - INFO - Epoch [36/200] - BiLSTMWithAttention, Training Loss: 0.0005, Learning Rate: 0.000500
+2025-04-24 22:46:25 - INFO - Epoch [36/200] - BiLSTMWithAttention, Test Loss: 0.3797, Accuracy: 95.40%
+2025-04-24 22:46:25 - INFO - Epoch [37/200] - BiLSTMWithAttention, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-24 22:46:25 - INFO - Epoch [37/200] - BiLSTMWithAttention, Test Loss: 0.3829, Accuracy: 95.40%
+2025-04-24 22:46:26 - INFO - Epoch [38/200] - BiLSTMWithAttention, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-24 22:46:26 - INFO - Epoch [38/200] - BiLSTMWithAttention, Test Loss: 0.3866, Accuracy: 95.40%
+2025-04-24 22:46:26 - INFO - Epoch [39/200] - BiLSTMWithAttention, Training Loss: 0.0004, Learning Rate: 0.000500
+2025-04-24 22:46:26 - INFO - Epoch [39/200] - BiLSTMWithAttention, Test Loss: 0.3895, Accuracy: 95.40%
+2025-04-24 22:46:26 - INFO - Epoch [40/200] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-24 22:46:26 - INFO - Epoch [40/200] - BiLSTMWithAttention, Test Loss: 0.3926, Accuracy: 95.40%
+2025-04-24 22:46:26 - INFO - Epoch [41/200] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-24 22:46:26 - INFO - Epoch [41/200] - BiLSTMWithAttention, Test Loss: 0.3959, Accuracy: 95.40%
+2025-04-24 22:46:26 - INFO - Epoch [42/200] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-24 22:46:26 - INFO - Epoch [42/200] - BiLSTMWithAttention, Test Loss: 0.3994, Accuracy: 95.40%
+2025-04-24 22:46:27 - INFO - Epoch [43/200] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-24 22:46:27 - INFO - Epoch [43/200] - BiLSTMWithAttention, Test Loss: 0.4023, Accuracy: 95.40%
+2025-04-24 22:46:27 - INFO - Epoch [44/200] - BiLSTMWithAttention, Training Loss: 0.0003, Learning Rate: 0.000500
+2025-04-24 22:46:27 - INFO - Epoch [44/200] - BiLSTMWithAttention, Test Loss: 0.4052, Accuracy: 95.40%
+2025-04-24 22:46:27 - INFO - Epoch [45/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:27 - INFO - Epoch [45/200] - BiLSTMWithAttention, Test Loss: 0.4079, Accuracy: 95.40%
+2025-04-24 22:46:27 - INFO - Epoch [46/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:27 - INFO - Epoch [46/200] - BiLSTMWithAttention, Test Loss: 0.4107, Accuracy: 95.40%
+2025-04-24 22:46:27 - INFO - Epoch [47/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:27 - INFO - Epoch [47/200] - BiLSTMWithAttention, Test Loss: 0.4128, Accuracy: 95.40%
+2025-04-24 22:46:28 - INFO - Epoch [48/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:28 - INFO - Epoch [48/200] - BiLSTMWithAttention, Test Loss: 0.4151, Accuracy: 95.40%
+2025-04-24 22:46:28 - INFO - Epoch [49/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:28 - INFO - Epoch [49/200] - BiLSTMWithAttention, Test Loss: 0.4175, Accuracy: 95.40%
+2025-04-24 22:46:28 - INFO - Epoch [50/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:28 - INFO - Epoch [50/200] - BiLSTMWithAttention, Test Loss: 0.4197, Accuracy: 95.40%
+2025-04-24 22:46:28 - INFO - Epoch [51/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:28 - INFO - Epoch [51/200] - BiLSTMWithAttention, Test Loss: 0.4220, Accuracy: 95.40%
+2025-04-24 22:46:28 - INFO - Epoch [52/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:28 - INFO - Epoch [52/200] - BiLSTMWithAttention, Test Loss: 0.4245, Accuracy: 95.40%
+2025-04-24 22:46:29 - INFO - Epoch [53/200] - BiLSTMWithAttention, Training Loss: 0.0002, Learning Rate: 0.000500
+2025-04-24 22:46:29 - INFO - Epoch [53/200] - BiLSTMWithAttention, Test Loss: 0.4269, Accuracy: 95.40%
+2025-04-24 22:46:29 - INFO - Epoch [54/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:29 - INFO - Epoch [54/200] - BiLSTMWithAttention, Test Loss: 0.4289, Accuracy: 95.40%
+2025-04-24 22:46:29 - INFO - Epoch [55/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:29 - INFO - Epoch [55/200] - BiLSTMWithAttention, Test Loss: 0.4310, Accuracy: 95.40%
+2025-04-24 22:46:29 - INFO - Epoch [56/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:29 - INFO - Epoch [56/200] - BiLSTMWithAttention, Test Loss: 0.4331, Accuracy: 95.40%
+2025-04-24 22:46:30 - INFO - Epoch [57/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:30 - INFO - Epoch [57/200] - BiLSTMWithAttention, Test Loss: 0.4352, Accuracy: 95.40%
+2025-04-24 22:46:30 - INFO - Epoch [58/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:30 - INFO - Epoch [58/200] - BiLSTMWithAttention, Test Loss: 0.4372, Accuracy: 95.40%
+2025-04-24 22:46:30 - INFO - Epoch [59/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:30 - INFO - Epoch [59/200] - BiLSTMWithAttention, Test Loss: 0.4392, Accuracy: 95.40%
+2025-04-24 22:46:30 - INFO - Epoch [60/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:30 - INFO - Epoch [60/200] - BiLSTMWithAttention, Test Loss: 0.4411, Accuracy: 95.40%
+2025-04-24 22:46:30 - INFO - Epoch [61/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:30 - INFO - Epoch [61/200] - BiLSTMWithAttention, Test Loss: 0.4428, Accuracy: 95.40%
+2025-04-24 22:46:31 - INFO - Epoch [62/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:31 - INFO - Epoch [62/200] - BiLSTMWithAttention, Test Loss: 0.4445, Accuracy: 95.40%
+2025-04-24 22:46:31 - INFO - Epoch [63/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:31 - INFO - Epoch [63/200] - BiLSTMWithAttention, Test Loss: 0.4461, Accuracy: 95.40%
+2025-04-24 22:46:31 - INFO - Epoch [64/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:31 - INFO - Epoch [64/200] - BiLSTMWithAttention, Test Loss: 0.4476, Accuracy: 95.40%
+2025-04-24 22:46:31 - INFO - Epoch [65/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:31 - INFO - Epoch [65/200] - BiLSTMWithAttention, Test Loss: 0.4494, Accuracy: 95.40%
+2025-04-24 22:46:31 - INFO - Epoch [66/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:31 - INFO - Epoch [66/200] - BiLSTMWithAttention, Test Loss: 0.4509, Accuracy: 95.40%
+2025-04-24 22:46:32 - INFO - Epoch [67/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:32 - INFO - Epoch [67/200] - BiLSTMWithAttention, Test Loss: 0.4527, Accuracy: 95.40%
+2025-04-24 22:46:32 - INFO - Epoch [68/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:32 - INFO - Epoch [68/200] - BiLSTMWithAttention, Test Loss: 0.4545, Accuracy: 95.40%
+2025-04-24 22:46:32 - INFO - Epoch [69/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:32 - INFO - Epoch [69/200] - BiLSTMWithAttention, Test Loss: 0.4561, Accuracy: 95.40%
+2025-04-24 22:46:32 - INFO - Epoch [70/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:32 - INFO - Epoch [70/200] - BiLSTMWithAttention, Test Loss: 0.4576, Accuracy: 95.40%
+2025-04-24 22:46:32 - INFO - Epoch [71/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:32 - INFO - Epoch [71/200] - BiLSTMWithAttention, Test Loss: 0.4591, Accuracy: 95.40%
+2025-04-24 22:46:33 - INFO - Epoch [72/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:33 - INFO - Epoch [72/200] - BiLSTMWithAttention, Test Loss: 0.4605, Accuracy: 95.40%
+2025-04-24 22:46:33 - INFO - Epoch [73/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:33 - INFO - Epoch [73/200] - BiLSTMWithAttention, Test Loss: 0.4620, Accuracy: 95.40%
+2025-04-24 22:46:33 - INFO - Epoch [74/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:33 - INFO - Epoch [74/200] - BiLSTMWithAttention, Test Loss: 0.4635, Accuracy: 95.40%
+2025-04-24 22:46:33 - INFO - Epoch [75/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:33 - INFO - Epoch [75/200] - BiLSTMWithAttention, Test Loss: 0.4651, Accuracy: 95.40%
+2025-04-24 22:46:33 - INFO - Epoch [76/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:33 - INFO - Epoch [76/200] - BiLSTMWithAttention, Test Loss: 0.4666, Accuracy: 95.40%
+2025-04-24 22:46:34 - INFO - Epoch [77/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:34 - INFO - Epoch [77/200] - BiLSTMWithAttention, Test Loss: 0.4682, Accuracy: 95.40%
+2025-04-24 22:46:34 - INFO - Epoch [78/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:34 - INFO - Epoch [78/200] - BiLSTMWithAttention, Test Loss: 0.4695, Accuracy: 95.40%
+2025-04-24 22:46:34 - INFO - Epoch [79/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:34 - INFO - Epoch [79/200] - BiLSTMWithAttention, Test Loss: 0.4708, Accuracy: 95.40%
+2025-04-24 22:46:34 - INFO - Epoch [80/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:34 - INFO - Epoch [80/200] - BiLSTMWithAttention, Test Loss: 0.4721, Accuracy: 95.40%
+2025-04-24 22:46:34 - INFO - Epoch [81/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:35 - INFO - Epoch [81/200] - BiLSTMWithAttention, Test Loss: 0.4735, Accuracy: 95.40%
+2025-04-24 22:46:35 - INFO - Epoch [82/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:35 - INFO - Epoch [82/200] - BiLSTMWithAttention, Test Loss: 0.4748, Accuracy: 95.40%
+2025-04-24 22:46:35 - INFO - Epoch [83/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:35 - INFO - Epoch [83/200] - BiLSTMWithAttention, Test Loss: 0.4761, Accuracy: 95.40%
+2025-04-24 22:46:35 - INFO - Epoch [84/200] - BiLSTMWithAttention, Training Loss: 0.0001, Learning Rate: 0.000500
+2025-04-24 22:46:35 - INFO - Epoch [84/200] - BiLSTMWithAttention, Test Loss: 0.4773, Accuracy: 95.40%
+2025-04-24 22:46:35 - INFO - Epoch [85/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:35 - INFO - Epoch [85/200] - BiLSTMWithAttention, Test Loss: 0.4785, Accuracy: 95.40%
+2025-04-24 22:46:36 - INFO - Epoch [86/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:36 - INFO - Epoch [86/200] - BiLSTMWithAttention, Test Loss: 0.4797, Accuracy: 95.40%
+2025-04-24 22:46:36 - INFO - Epoch [87/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:36 - INFO - Epoch [87/200] - BiLSTMWithAttention, Test Loss: 0.4809, Accuracy: 95.40%
+2025-04-24 22:46:36 - INFO - Epoch [88/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:36 - INFO - Epoch [88/200] - BiLSTMWithAttention, Test Loss: 0.4820, Accuracy: 95.40%
+2025-04-24 22:46:36 - INFO - Epoch [89/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:36 - INFO - Epoch [89/200] - BiLSTMWithAttention, Test Loss: 0.4832, Accuracy: 95.40%
+2025-04-24 22:46:36 - INFO - Epoch [90/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:36 - INFO - Epoch [90/200] - BiLSTMWithAttention, Test Loss: 0.4845, Accuracy: 95.40%
+2025-04-24 22:46:37 - INFO - Epoch [91/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:37 - INFO - Epoch [91/200] - BiLSTMWithAttention, Test Loss: 0.4858, Accuracy: 95.40%
+2025-04-24 22:46:37 - INFO - Epoch [92/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:37 - INFO - Epoch [92/200] - BiLSTMWithAttention, Test Loss: 0.4869, Accuracy: 95.40%
+2025-04-24 22:46:37 - INFO - Epoch [93/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:37 - INFO - Epoch [93/200] - BiLSTMWithAttention, Test Loss: 0.4880, Accuracy: 95.40%
+2025-04-24 22:46:37 - INFO - Epoch [94/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:37 - INFO - Epoch [94/200] - BiLSTMWithAttention, Test Loss: 0.4892, Accuracy: 95.40%
+2025-04-24 22:46:37 - INFO - Epoch [95/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:37 - INFO - Epoch [95/200] - BiLSTMWithAttention, Test Loss: 0.4902, Accuracy: 95.40%
+2025-04-24 22:46:38 - INFO - Epoch [96/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:38 - INFO - Epoch [96/200] - BiLSTMWithAttention, Test Loss: 0.4915, Accuracy: 95.40%
+2025-04-24 22:46:38 - INFO - Epoch [97/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:38 - INFO - Epoch [97/200] - BiLSTMWithAttention, Test Loss: 0.4926, Accuracy: 95.40%
+2025-04-24 22:46:38 - INFO - Epoch [98/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:38 - INFO - Epoch [98/200] - BiLSTMWithAttention, Test Loss: 0.4937, Accuracy: 95.40%
+2025-04-24 22:46:38 - INFO - Epoch [99/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:38 - INFO - Epoch [99/200] - BiLSTMWithAttention, Test Loss: 0.4948, Accuracy: 95.40%
+2025-04-24 22:46:39 - INFO - Epoch [100/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:39 - INFO - Epoch [100/200] - BiLSTMWithAttention, Test Loss: 0.4959, Accuracy: 95.40%
+2025-04-24 22:46:39 - INFO - Epoch [101/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:39 - INFO - Epoch [101/200] - BiLSTMWithAttention, Test Loss: 0.4969, Accuracy: 95.40%
+2025-04-24 22:46:39 - INFO - Epoch [102/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:39 - INFO - Epoch [102/200] - BiLSTMWithAttention, Test Loss: 0.4979, Accuracy: 95.40%
+2025-04-24 22:46:39 - INFO - Epoch [103/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:39 - INFO - Epoch [103/200] - BiLSTMWithAttention, Test Loss: 0.4989, Accuracy: 95.40%
+2025-04-24 22:46:39 - INFO - Epoch [104/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:39 - INFO - Epoch [104/200] - BiLSTMWithAttention, Test Loss: 0.4999, Accuracy: 95.40%
+2025-04-24 22:46:40 - INFO - Epoch [105/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:40 - INFO - Epoch [105/200] - BiLSTMWithAttention, Test Loss: 0.5009, Accuracy: 95.40%
+2025-04-24 22:46:40 - INFO - Epoch [106/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:40 - INFO - Epoch [106/200] - BiLSTMWithAttention, Test Loss: 0.5019, Accuracy: 95.40%
+2025-04-24 22:46:40 - INFO - Epoch [107/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:40 - INFO - Epoch [107/200] - BiLSTMWithAttention, Test Loss: 0.5028, Accuracy: 95.40%
+2025-04-24 22:46:40 - INFO - Epoch [108/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:40 - INFO - Epoch [108/200] - BiLSTMWithAttention, Test Loss: 0.5038, Accuracy: 95.40%
+2025-04-24 22:46:40 - INFO - Epoch [109/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:40 - INFO - Epoch [109/200] - BiLSTMWithAttention, Test Loss: 0.5047, Accuracy: 95.40%
+2025-04-24 22:46:41 - INFO - Epoch [110/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:41 - INFO - Epoch [110/200] - BiLSTMWithAttention, Test Loss: 0.5055, Accuracy: 95.40%
+2025-04-24 22:46:41 - INFO - Epoch [111/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:41 - INFO - Epoch [111/200] - BiLSTMWithAttention, Test Loss: 0.5064, Accuracy: 95.40%
+2025-04-24 22:46:41 - INFO - Epoch [112/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:41 - INFO - Epoch [112/200] - BiLSTMWithAttention, Test Loss: 0.5073, Accuracy: 95.40%
+2025-04-24 22:46:41 - INFO - Epoch [113/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:41 - INFO - Epoch [113/200] - BiLSTMWithAttention, Test Loss: 0.5082, Accuracy: 95.40%
+2025-04-24 22:46:41 - INFO - Epoch [114/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:41 - INFO - Epoch [114/200] - BiLSTMWithAttention, Test Loss: 0.5090, Accuracy: 95.40%
+2025-04-24 22:46:42 - INFO - Epoch [115/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:42 - INFO - Epoch [115/200] - BiLSTMWithAttention, Test Loss: 0.5100, Accuracy: 95.40%
+2025-04-24 22:46:42 - INFO - Epoch [116/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:42 - INFO - Epoch [116/200] - BiLSTMWithAttention, Test Loss: 0.5108, Accuracy: 95.40%
+2025-04-24 22:46:42 - INFO - Epoch [117/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:42 - INFO - Epoch [117/200] - BiLSTMWithAttention, Test Loss: 0.5117, Accuracy: 95.40%
+2025-04-24 22:46:42 - INFO - Epoch [118/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:42 - INFO - Epoch [118/200] - BiLSTMWithAttention, Test Loss: 0.5126, Accuracy: 95.40%
+2025-04-24 22:46:42 - INFO - Epoch [119/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:42 - INFO - Epoch [119/200] - BiLSTMWithAttention, Test Loss: 0.5135, Accuracy: 95.40%
+2025-04-24 22:46:43 - INFO - Epoch [120/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:43 - INFO - Epoch [120/200] - BiLSTMWithAttention, Test Loss: 0.5143, Accuracy: 95.40%
+2025-04-24 22:46:43 - INFO - Epoch [121/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:43 - INFO - Epoch [121/200] - BiLSTMWithAttention, Test Loss: 0.5151, Accuracy: 95.40%
+2025-04-24 22:46:43 - INFO - Epoch [122/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:43 - INFO - Epoch [122/200] - BiLSTMWithAttention, Test Loss: 0.5160, Accuracy: 95.40%
+2025-04-24 22:46:43 - INFO - Epoch [123/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:43 - INFO - Epoch [123/200] - BiLSTMWithAttention, Test Loss: 0.5169, Accuracy: 95.40%
+2025-04-24 22:46:43 - INFO - Epoch [124/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:43 - INFO - Epoch [124/200] - BiLSTMWithAttention, Test Loss: 0.5177, Accuracy: 95.40%
+2025-04-24 22:46:44 - INFO - Epoch [125/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:44 - INFO - Epoch [125/200] - BiLSTMWithAttention, Test Loss: 0.5186, Accuracy: 95.40%
+2025-04-24 22:46:44 - INFO - Epoch [126/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:44 - INFO - Epoch [126/200] - BiLSTMWithAttention, Test Loss: 0.5194, Accuracy: 95.40%
+2025-04-24 22:46:44 - INFO - Epoch [127/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:44 - INFO - Epoch [127/200] - BiLSTMWithAttention, Test Loss: 0.5202, Accuracy: 95.40%
+2025-04-24 22:46:44 - INFO - Epoch [128/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:44 - INFO - Epoch [128/200] - BiLSTMWithAttention, Test Loss: 0.5210, Accuracy: 95.40%
+2025-04-24 22:46:44 - INFO - Epoch [129/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:44 - INFO - Epoch [129/200] - BiLSTMWithAttention, Test Loss: 0.5218, Accuracy: 95.40%
+2025-04-24 22:46:45 - INFO - Epoch [130/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:45 - INFO - Epoch [130/200] - BiLSTMWithAttention, Test Loss: 0.5226, Accuracy: 95.40%
+2025-04-24 22:46:45 - INFO - Epoch [131/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:45 - INFO - Epoch [131/200] - BiLSTMWithAttention, Test Loss: 0.5234, Accuracy: 95.40%
+2025-04-24 22:46:45 - INFO - Epoch [132/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:45 - INFO - Epoch [132/200] - BiLSTMWithAttention, Test Loss: 0.5241, Accuracy: 95.40%
+2025-04-24 22:46:45 - INFO - Epoch [133/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:45 - INFO - Epoch [133/200] - BiLSTMWithAttention, Test Loss: 0.5250, Accuracy: 95.40%
+2025-04-24 22:46:45 - INFO - Epoch [134/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:45 - INFO - Epoch [134/200] - BiLSTMWithAttention, Test Loss: 0.5258, Accuracy: 95.40%
+2025-04-24 22:46:46 - INFO - Epoch [135/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:46 - INFO - Epoch [135/200] - BiLSTMWithAttention, Test Loss: 0.5265, Accuracy: 95.40%
+2025-04-24 22:46:46 - INFO - Epoch [136/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:46 - INFO - Epoch [136/200] - BiLSTMWithAttention, Test Loss: 0.5273, Accuracy: 95.40%
+2025-04-24 22:46:46 - INFO - Epoch [137/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:46 - INFO - Epoch [137/200] - BiLSTMWithAttention, Test Loss: 0.5280, Accuracy: 95.40%
+2025-04-24 22:46:46 - INFO - Epoch [138/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:46 - INFO - Epoch [138/200] - BiLSTMWithAttention, Test Loss: 0.5288, Accuracy: 95.40%
+2025-04-24 22:46:46 - INFO - Epoch [139/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:46 - INFO - Epoch [139/200] - BiLSTMWithAttention, Test Loss: 0.5295, Accuracy: 95.40%
+2025-04-24 22:46:47 - INFO - Epoch [140/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:47 - INFO - Epoch [140/200] - BiLSTMWithAttention, Test Loss: 0.5302, Accuracy: 95.40%
+2025-04-24 22:46:47 - INFO - Epoch [141/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:47 - INFO - Epoch [141/200] - BiLSTMWithAttention, Test Loss: 0.5310, Accuracy: 95.40%
+2025-04-24 22:46:47 - INFO - Epoch [142/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:47 - INFO - Epoch [142/200] - BiLSTMWithAttention, Test Loss: 0.5317, Accuracy: 95.40%
+2025-04-24 22:46:47 - INFO - Epoch [143/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:47 - INFO - Epoch [143/200] - BiLSTMWithAttention, Test Loss: 0.5324, Accuracy: 95.40%
+2025-04-24 22:46:47 - INFO - Epoch [144/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:47 - INFO - Epoch [144/200] - BiLSTMWithAttention, Test Loss: 0.5331, Accuracy: 95.40%
+2025-04-24 22:46:48 - INFO - Epoch [145/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:48 - INFO - Epoch [145/200] - BiLSTMWithAttention, Test Loss: 0.5337, Accuracy: 95.40%
+2025-04-24 22:46:48 - INFO - Epoch [146/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:48 - INFO - Epoch [146/200] - BiLSTMWithAttention, Test Loss: 0.5344, Accuracy: 95.40%
+2025-04-24 22:46:48 - INFO - Epoch [147/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:48 - INFO - Epoch [147/200] - BiLSTMWithAttention, Test Loss: 0.5351, Accuracy: 95.40%
+2025-04-24 22:46:48 - INFO - Epoch [148/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:48 - INFO - Epoch [148/200] - BiLSTMWithAttention, Test Loss: 0.5358, Accuracy: 95.40%
+2025-04-24 22:46:48 - INFO - Epoch [149/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:48 - INFO - Epoch [149/200] - BiLSTMWithAttention, Test Loss: 0.5365, Accuracy: 95.40%
+2025-04-24 22:46:49 - INFO - Epoch [150/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:49 - INFO - Epoch [150/200] - BiLSTMWithAttention, Test Loss: 0.5372, Accuracy: 95.40%
+2025-04-24 22:46:49 - INFO - Epoch [151/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:49 - INFO - Epoch [151/200] - BiLSTMWithAttention, Test Loss: 0.5378, Accuracy: 95.40%
+2025-04-24 22:46:49 - INFO - Epoch [152/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:49 - INFO - Epoch [152/200] - BiLSTMWithAttention, Test Loss: 0.5385, Accuracy: 95.40%
+2025-04-24 22:46:49 - INFO - Epoch [153/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:49 - INFO - Epoch [153/200] - BiLSTMWithAttention, Test Loss: 0.5392, Accuracy: 95.40%
+2025-04-24 22:46:49 - INFO - Epoch [154/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:49 - INFO - Epoch [154/200] - BiLSTMWithAttention, Test Loss: 0.5398, Accuracy: 95.40%
+2025-04-24 22:46:50 - INFO - Epoch [155/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:50 - INFO - Epoch [155/200] - BiLSTMWithAttention, Test Loss: 0.5405, Accuracy: 95.40%
+2025-04-24 22:46:50 - INFO - Epoch [156/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:50 - INFO - Epoch [156/200] - BiLSTMWithAttention, Test Loss: 0.5411, Accuracy: 95.40%
+2025-04-24 22:46:50 - INFO - Epoch [157/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:50 - INFO - Epoch [157/200] - BiLSTMWithAttention, Test Loss: 0.5417, Accuracy: 95.40%
+2025-04-24 22:46:50 - INFO - Epoch [158/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:50 - INFO - Epoch [158/200] - BiLSTMWithAttention, Test Loss: 0.5424, Accuracy: 95.40%
+2025-04-24 22:46:50 - INFO - Epoch [159/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:50 - INFO - Epoch [159/200] - BiLSTMWithAttention, Test Loss: 0.5430, Accuracy: 95.40%
+2025-04-24 22:46:51 - INFO - Epoch [160/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:51 - INFO - Epoch [160/200] - BiLSTMWithAttention, Test Loss: 0.5436, Accuracy: 95.40%
+2025-04-24 22:46:51 - INFO - Epoch [161/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:51 - INFO - Epoch [161/200] - BiLSTMWithAttention, Test Loss: 0.5442, Accuracy: 95.40%
+2025-04-24 22:46:51 - INFO - Epoch [162/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:51 - INFO - Epoch [162/200] - BiLSTMWithAttention, Test Loss: 0.5448, Accuracy: 95.40%
+2025-04-24 22:46:51 - INFO - Epoch [163/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:51 - INFO - Epoch [163/200] - BiLSTMWithAttention, Test Loss: 0.5454, Accuracy: 95.40%
+2025-04-24 22:46:51 - INFO - Epoch [164/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:51 - INFO - Epoch [164/200] - BiLSTMWithAttention, Test Loss: 0.5461, Accuracy: 95.40%
+2025-04-24 22:46:52 - INFO - Epoch [165/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:52 - INFO - Epoch [165/200] - BiLSTMWithAttention, Test Loss: 0.5467, Accuracy: 95.40%
+2025-04-24 22:46:52 - INFO - Epoch [166/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:52 - INFO - Epoch [166/200] - BiLSTMWithAttention, Test Loss: 0.5473, Accuracy: 95.40%
+2025-04-24 22:46:52 - INFO - Epoch [167/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:52 - INFO - Epoch [167/200] - BiLSTMWithAttention, Test Loss: 0.5479, Accuracy: 95.40%
+2025-04-24 22:46:52 - INFO - Epoch [168/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:52 - INFO - Epoch [168/200] - BiLSTMWithAttention, Test Loss: 0.5485, Accuracy: 95.40%
+2025-04-24 22:46:52 - INFO - Epoch [169/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:52 - INFO - Epoch [169/200] - BiLSTMWithAttention, Test Loss: 0.5491, Accuracy: 95.40%
+2025-04-24 22:46:53 - INFO - Epoch [170/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:53 - INFO - Epoch [170/200] - BiLSTMWithAttention, Test Loss: 0.5497, Accuracy: 95.40%
+2025-04-24 22:46:53 - INFO - Epoch [171/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:53 - INFO - Epoch [171/200] - BiLSTMWithAttention, Test Loss: 0.5502, Accuracy: 95.40%
+2025-04-24 22:46:53 - INFO - Epoch [172/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:53 - INFO - Epoch [172/200] - BiLSTMWithAttention, Test Loss: 0.5508, Accuracy: 95.40%
+2025-04-24 22:46:53 - INFO - Epoch [173/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:53 - INFO - Epoch [173/200] - BiLSTMWithAttention, Test Loss: 0.5514, Accuracy: 95.40%
+2025-04-24 22:46:53 - INFO - Epoch [174/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:53 - INFO - Epoch [174/200] - BiLSTMWithAttention, Test Loss: 0.5520, Accuracy: 95.40%
+2025-04-24 22:46:54 - INFO - Epoch [175/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:54 - INFO - Epoch [175/200] - BiLSTMWithAttention, Test Loss: 0.5526, Accuracy: 95.40%
+2025-04-24 22:46:54 - INFO - Epoch [176/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:54 - INFO - Epoch [176/200] - BiLSTMWithAttention, Test Loss: 0.5532, Accuracy: 95.40%
+2025-04-24 22:46:54 - INFO - Epoch [177/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:54 - INFO - Epoch [177/200] - BiLSTMWithAttention, Test Loss: 0.5538, Accuracy: 95.40%
+2025-04-24 22:46:54 - INFO - Epoch [178/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:54 - INFO - Epoch [178/200] - BiLSTMWithAttention, Test Loss: 0.5543, Accuracy: 95.40%
+2025-04-24 22:46:54 - INFO - Epoch [179/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:54 - INFO - Epoch [179/200] - BiLSTMWithAttention, Test Loss: 0.5548, Accuracy: 95.40%
+2025-04-24 22:46:55 - INFO - Epoch [180/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:55 - INFO - Epoch [180/200] - BiLSTMWithAttention, Test Loss: 0.5553, Accuracy: 95.40%
+2025-04-24 22:46:55 - INFO - Epoch [181/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:55 - INFO - Epoch [181/200] - BiLSTMWithAttention, Test Loss: 0.5558, Accuracy: 95.40%
+2025-04-24 22:46:55 - INFO - Epoch [182/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:55 - INFO - Epoch [182/200] - BiLSTMWithAttention, Test Loss: 0.5564, Accuracy: 95.40%
+2025-04-24 22:46:55 - INFO - Epoch [183/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:55 - INFO - Epoch [183/200] - BiLSTMWithAttention, Test Loss: 0.5570, Accuracy: 95.40%
+2025-04-24 22:46:55 - INFO - Epoch [184/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:55 - INFO - Epoch [184/200] - BiLSTMWithAttention, Test Loss: 0.5576, Accuracy: 95.40%
+2025-04-24 22:46:56 - INFO - Epoch [185/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:56 - INFO - Epoch [185/200] - BiLSTMWithAttention, Test Loss: 0.5581, Accuracy: 95.40%
+2025-04-24 22:46:56 - INFO - Epoch [186/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:56 - INFO - Epoch [186/200] - BiLSTMWithAttention, Test Loss: 0.5587, Accuracy: 95.40%
+2025-04-24 22:46:56 - INFO - Epoch [187/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:56 - INFO - Epoch [187/200] - BiLSTMWithAttention, Test Loss: 0.5592, Accuracy: 95.40%
+2025-04-24 22:46:56 - INFO - Epoch [188/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:56 - INFO - Epoch [188/200] - BiLSTMWithAttention, Test Loss: 0.5597, Accuracy: 95.40%
+2025-04-24 22:46:56 - INFO - Epoch [189/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:56 - INFO - Epoch [189/200] - BiLSTMWithAttention, Test Loss: 0.5604, Accuracy: 95.40%
+2025-04-24 22:46:57 - INFO - Epoch [190/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:57 - INFO - Epoch [190/200] - BiLSTMWithAttention, Test Loss: 0.5609, Accuracy: 95.40%
+2025-04-24 22:46:57 - INFO - Epoch [191/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:57 - INFO - Epoch [191/200] - BiLSTMWithAttention, Test Loss: 0.5615, Accuracy: 95.40%
+2025-04-24 22:46:57 - INFO - Epoch [192/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:57 - INFO - Epoch [192/200] - BiLSTMWithAttention, Test Loss: 0.5620, Accuracy: 95.40%
+2025-04-24 22:46:57 - INFO - Epoch [193/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:57 - INFO - Epoch [193/200] - BiLSTMWithAttention, Test Loss: 0.5625, Accuracy: 95.40%
+2025-04-24 22:46:57 - INFO - Epoch [194/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:57 - INFO - Epoch [194/200] - BiLSTMWithAttention, Test Loss: 0.5630, Accuracy: 95.40%
+2025-04-24 22:46:58 - INFO - Epoch [195/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:58 - INFO - Epoch [195/200] - BiLSTMWithAttention, Test Loss: 0.5636, Accuracy: 95.40%
+2025-04-24 22:46:58 - INFO - Epoch [196/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:58 - INFO - Epoch [196/200] - BiLSTMWithAttention, Test Loss: 0.5641, Accuracy: 95.40%
+2025-04-24 22:46:58 - INFO - Epoch [197/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:58 - INFO - Epoch [197/200] - BiLSTMWithAttention, Test Loss: 0.5646, Accuracy: 95.40%
+2025-04-24 22:46:58 - INFO - Epoch [198/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:58 - INFO - Epoch [198/200] - BiLSTMWithAttention, Test Loss: 0.5651, Accuracy: 95.40%
+2025-04-24 22:46:58 - INFO - Epoch [199/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:58 - INFO - Epoch [199/200] - BiLSTMWithAttention, Test Loss: 0.5657, Accuracy: 95.40%
+2025-04-24 22:46:59 - INFO - Epoch [200/200] - BiLSTMWithAttention, Training Loss: 0.0000, Learning Rate: 0.000500
+2025-04-24 22:46:59 - INFO - Epoch [200/200] - BiLSTMWithAttention, Test Loss: 0.5662, Accuracy: 95.40%
+2025-04-24 22:46:59 - INFO - Training and evaluation complete for BiLSTMWithAttention. Best model saved with accuracy: 97.70%

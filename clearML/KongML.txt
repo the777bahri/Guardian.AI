@@ -1,0 +1,11 @@
+api {
+  # Shudarshan Singh Kongkham's workspace
+  web_server: https://app.clear.ml/
+  api_server: https://api.clear.ml
+  files_server: https://files.clear.ml
+  # ClearGuardian
+  credentials {
+    "access_key" = "NRB3PGE4Y606OUK6MV6GN52NHR6PE7"
+    "secret_key" = "n-gt0zAo8mTHnVCMK2Z4oI9Oal2mfl-SomvnIfLByfUhygnsKMaQ-Sh87trGT-dfQ7g"
+  }
+}

@@ -1,0 +1,10 @@
+api {
+  # Abdullah Bahri's workspace
+  web_server: https://app.clear.ml/
+  api_server: https://api.clear.ml
+  files_server: https://files.clear.ml
+  credentials {
+    "access_key" = "9GT5YNQ6BUQJRQC9CAU1MCRMKE8ND3"
+    "secret_key" = "j3vJ-CfkmigHbBgm2HQx2fCciaM2_Pc6G6LZUliLM9_21yJUHqZLg7QhmNHPIWSyVXM"
+  }
+}

@@ -1,0 +1,9 @@
+# Ignore all .pt files
+*.pt
+*.zip
+
+# Ignore the "data" folder
+data/
+
+# Ignore the "data_utils" folder
+data_utils/

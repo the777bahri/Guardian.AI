@@ -1,0 +1,10 @@
+api {
+  # FV Legion's workspace
+  web_server: https://app.clear.ml/
+  api_server: https://api.clear.ml
+  files_server: https://files.clear.ml
+  credentials {
+    "access_key" = "JML65564REEXGTMHBNNG31MWJY2I9W"
+    "secret_key" = "PB52bbXZdPl609DC42FMLQLo2sahuI7Iq9Xu0Qa2LL_wjerYllzIXeBAcjE-rgJHMu4"
+  }
+}
