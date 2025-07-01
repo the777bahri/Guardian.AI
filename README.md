@@ -154,8 +154,6 @@ GuardianAI/
 
 For issues, please open an issue on GitHub or contact the development team.
 
----
-
 ## 👥 Contributors
 
 This project was developed by a team of dedicated students from the University of Technology Sydney (UTS):
