@@ -163,14 +163,18 @@ This project was developed by a team of dedicated students from the University o
 - **Abdullah Ibrahim Bahri** ([@the777bahri](https://github.com/the777bahri))
   - Student ID: 13384589
   - Email: Abdullah.i.bahri@student.uts.edu.au
+  - Linkedin : https://www.linkedin.com/in/abdullah-bahr/
 
 - **Hayrambh Monga** ([@Hayrambh](https://github.com/orgs/FVLegion/people/Hayrambh))
   - Student ID: 25176811
   - Email: hayrambhrajesh.monga@student.uts.edu.au
+  - Linkedin : https://www.linkedin.com/in/hayrambhmonga/
 
 - **Shudarshan Singh Kongkham** ([@ShudarshanKongkham](https://github.com/orgs/FVLegion/people/ShudarshanKongkham))
   - Student ID: 25024199
   - Email: shudarshan.s.kongkham@student.uts.edu.au
+  - Linkedin : https://www.linkedin.com/in/shudarshan-kongkham/
+
 
 We appreciate the collaborative effort and dedication each team member brought to making GuardianAI a reality.
 
